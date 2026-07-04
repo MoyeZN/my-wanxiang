@@ -1,0 +1,9 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wanxiang_reverse
+version: "LTS"
+sort: original
+import_tables:
+  - wanxiang_reverse
+...
