@@ -507,7 +507,7 @@ super_replacer:
       tags: [abc]
       prefix: "_cf_"
       files:
-        - dicts_lxsq/chaifen_lxsq.txt
+        - lua/data/chaifen_lxsq.txt
     # 场景2：输入 'hello' -> 显示 'hello 〔你好 | 哈喽〕'
     - option: chinese_english
       mode: append  # <--- 添加注释模式
