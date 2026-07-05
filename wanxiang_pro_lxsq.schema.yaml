@@ -2,7 +2,7 @@
 # encoding: utf-8
 # 方案说明
 schema:
-  schema_id: wanxiang_pro_lxsq_left
+  schema_id: wanxiang_pro_lxsq
   name: 乱序十七
   version: "LTS"
   author:
