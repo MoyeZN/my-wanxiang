@@ -2150,7 +2150,7 @@
 匀	bb
 包	bm
 协	ud
-卞	db
+卞	wb
 卟	jb
 占	uj
 卢	uu

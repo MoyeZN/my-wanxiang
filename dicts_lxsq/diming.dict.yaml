@@ -735,7 +735,7 @@ sort: by_weight
 周宅	zhōu;nj zhái;bq	6
 周至	zhōu;nj zhì;ht	140
 周庄	zhōu;nj zhuāng;gt	179
-朱巴	zhū;lw bā;mu	742
+朱巴	zhū;lw bā;mu	310
 朱村	zhū;lw cūn;mf	42
 朱店	zhū;lw diàn;gj	92
 朱河	zhū;lw hé;dj	202
@@ -1931,7 +1931,7 @@ sort: by_weight
 边临镇	biān;ll lín;ug zhèn;xb	1
 边马镇	biān;ll mǎ;vh zhèn;xb	1
 边门镇	biān;ll mén;dv zhèn;xb	1
-卞桥镇	biàn;db qiáo;mu zhèn;xb	1
+卞桥镇	biàn;wb qiáo;mu zhèn;xb	1
 边饶镇	biān;ll ráo;uf zhèn;xb	1
 汴塘镇	biàn;db táng;tj zhèn;xb	1
 边务镇	biān;ll wù;wl zhèn;xb	1
@@ -29331,12 +29331,12 @@ sort: by_weight
 扁担徐村	biǎn;hf dàn;yh xú;im cūn;mf	1
 扁担杨村	biǎn;hf dàn;yh yáng;ml cūn;mf	1
 汴河街道	biàn;db hé;dj jiē;ii dào;lw	1
-卞家泉村	biàn;db jiā;by quán;bu cūn;mf	1
+卞家泉村	biàn;wb jiā;by quán;bu cūn;mf	1
 边家务村	biān;ll jiā;by wù;wl cūn;mf	1
-卞家庄村	biàn;db jiā;by zhuāng;gt cūn;mf	1
+卞家庄村	biàn;wb jiā;by zhuāng;gt cūn;mf	1
 便江街道	biàn;ng jiāng;dg jiē;ii dào;lw	1
 边交林乡	biān;ll jiāo;wi lín;mm xiāng;vl	1
-卞路口乡	biàn;db lù;lj kǒu;uh xiāng;vl	1
+卞路口乡	biàn;wb lù;lj kǒu;uh xiāng;vl	1
 边墙壕村	biān;ll qiáng;tj háo;ty cūn;mf	1
 碥头溪村	biǎn;uf tóu;dd xī;dd cūn;mf	1
 边远山村	biān;ll yuǎn;lf shān;un cūn;mf	1
@@ -29344,7 +29344,7 @@ sort: by_weight
 边杖子村	biān;ll zhàng;my zi;vh cūn;mf	1
 边杖子乡	biān;ll zhàng;my zi;vh xiāng;vl	1
 边杖子镇	biān;ll zhàng;my zi;vh zhèn;xb	1
-卞庄街道	biàn;db zhuāng;gt jiē;ii dào;lw	1
+卞庄街道	biàn;wb zhuāng;gt jiē;ii dào;lw	1
 表白寺镇	biǎo;qy bái;lg sì;tf zhèn;xb	1
 彪家沟村	biāo;hl jiā;by gōu;dt cūn;mf	1
 别德马县	bié;jd dé;ix mǎ;vh xiàn;qt	1
@@ -58512,8 +58512,8 @@ sort: by_weight
 望宝川村	wàng;ww bǎo;bd chuān;lu cūn;mf	1
 王堡山村	wáng;ht bǎo;nt shān;un cūn;mf	1
 望北峰村	wàng;ww běi;ub fēng;uq cūn;mf	1
-王卞东村	wáng;ht biàn;db dōng;hd cūn;mf	1
-王卞庄村	wáng;ht biàn;db zhuāng;gt cūn;mf	1
+王卞东村	wáng;ht biàn;wb dōng;hd cūn;mf	1
+王卞庄村	wáng;ht biàn;wb zhuāng;gt cūn;mf	1
 王标西村	wáng;ht biāo;mx xī;hh cūn;mf	1
 王滨沟乡	wáng;ht bīn;db gōu;dt xiāng;vl	1
 王滨街道	wáng;ht bīn;db jiē;ii dào;lw	1
@@ -62706,7 +62706,7 @@ sort: by_weight
 小北庄村	xiǎo;ud běi;ub zhuāng;gt cūn;mf	1
 小蚌埠镇	xiǎo;ud bèng;iq bù;tu zhèn;xb	1
 小砭河乡	xiǎo;ud biān;uv hé;dj xiāng;vl	1
-小卞庄村	xiǎo;ud biàn;db zhuāng;gt cūn;mf	1
+小卞庄村	xiǎo;ud biàn;wb zhuāng;gt cūn;mf	1
 小泊头镇	xiǎo;ud bó;db tóu;dd zhèn;xb	1
 小埠东村	xiǎo;ud bù;tu dōng;hd cūn;mf	1
 小堡子村	xiǎo;ud bǔ;nt zi;vh cūn;mf	1
