@@ -28,4 +28,6 @@ import_tables:
   - dicts_lxsq/yiren         #艺人
   - dicts_lxsq/wuzhong       #物种多样性
   - dicts_lxsq/renming       #高频人名
+  - dicts_lxsq/taifeng       #最新台风表
+  - dicts_lxsq/fangyan       #收集全国方言
 ...

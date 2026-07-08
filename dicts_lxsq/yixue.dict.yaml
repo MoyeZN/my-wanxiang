@@ -3243,10 +3243,10 @@ sort: by_weight
 肾精亏虚证	shèn;uq jīng;mq kuī;hv xū;hy zhèng;jv	10
 神经浪游者	shén;vt jīng;tg làng;dg yóu;dw zhě;lg	10
 肾静脉肾素	shèn;uq jìng;qu mài;qy shèn;uq sù;qx	10
-深静脉栓塞	shēn;dm jìng;qu mài;qy shuān;mw sè;bt	10
+深静脉栓塞	shēn;dm jìng;qu mài;qy shuān;mw sè;bt	12
 肾静脉栓塞	shèn;uq jìng;qu mài;qy shuān;mw sè;bt	10
+深静脉血栓	shēn;dm jìng;qu mài;qy xuè;lm shuān;mw	12
 肾静脉血栓	shèn;uq jìng;qu mài;qy xuè;lm shuān;mw	10
-深静脉血栓	shēn;dm jìng;qu mài;qy xuè;lm shuān;mw	10
 肾静脉造影	shèn;uq jìng;qu mài;qy zào;lj yǐng;gl	10
 深静脉置管	shēn;dm jìng;qu mài;qy zhì;qq guǎn;vj	10
 神经牵伸术	shén;vt jīng;tg qiān;dn shēn;nt shù;md	10
@@ -8713,8 +8713,16 @@ sort: by_weight
 泰必氏综合征	tài;qu bì;dd shì;lv zōng;tx hé;nj zhēng;iv	10
 胎儿发育畸形	tāi;qj ér;lv fā;vd yù;wq jī;tj xíng;hl	10
 胎儿横纹肌瘤	tāi;qj ér;lv héng;mb wén;tw jī;qf liú;bt	10
+胎儿戒断症状	tāi;qj ér;lv jiè;gf duàn;md zhèng;bv zhuàng;bq	10
 胎儿镜捡查术	tāi;qj ér;lv jìng;xf jiǎn;yh chá;mh shù;md	10
 胎儿内倒转术	tāi;qj ér;lv nèi;ud dào;nd zhuǎn;id shù;md	10
+胎儿脐带绕颈	tāi;qj ér;lv qí;qu dài;ht rào;tf jǐng;vn	10
+胎儿亲子鉴定	tāi;qj ér;lv qīn;lm zǐ;vh jiàn;ux dìng;bn	10
+胎儿缺碘效应	tāi;qj ér;lv quē;fg diǎn;ub xiào;ww yìng;gh	10
+胎儿生长受限	tāi;qj ér;lv shēng;lq zhǎng;ly shòu;li xiàn;wg	10
+胎儿心搏徐缓	tāi;qj ér;lv xīn;dd bó;yf xú;im huǎn;ti	10
+胎儿心律失常	tāi;qj ér;lv xīn;dd lǜ;iu shī;lf cháng;xt	10
+胎儿智力发育	tāi;qj ér;lv zhì;lg lì;vl fā;vd yù;wq	10
 胎粪性腹膜炎	tāi;qj fèn;mb xìng;xq fù;qw mó;qd yán;hh	10
 胎热证胎寒证	tāi;qj rè;yh zhèng;jv tāi;qj hán;bd zhèng;jv	10
 苔藓样角化病	tái;fj xiǎn;fy yàng;my jiǎo;du huà;nq bìng;bb	10
