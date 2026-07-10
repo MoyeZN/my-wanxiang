@@ -1560,7 +1560,7 @@ sort: by_weight
 火热炽盛证	huǒ;dn rè;yh chì;hb shèng;im zhèng;jv	10
 火热扰心证	huǒ;dn rè;yh rǎo;yy xīn;dd zhèng;jv	10
 火热伤津证	huǒ;dn rè;yh shāng;nl jīn;du zhèng;jv	10
-火山肺矽病	huǒ;dn shān;un fèi;qu xī;ux bìng;bb	10
+火山肺矽病	huǒ;dn shān;un fèi;qu xī; bìng;bb	10
 火盛伤阴证	huǒ;dn shèng;im shāng;nl yīn;wq zhèng;jv	10
 霍斯二氏征	huò;yq sī;qd èr;hh shì;lv zhēng;iv	10
 活髓切断术	huó;dj suǐ;gl qiē;qd duàn;md shù;md	10
@@ -2624,7 +2624,6 @@ sort: by_weight
 皮肤橙色病	pí;vi fū;qf chéng;mh sè;dm bìng;bb	10
 皮肤垢着病	pí;vi fū;qf gòu;tj zhe;bq bìng;bb	10
 皮肤划痕症	pí;vi fū;qf huá;gd hén;bg zhèng;bv	10
-皮肤化痕症	pí;vi fū;qf huà;nq hén;bg zhèng;bv	10
 皮肤划纹症	pí;vi fū;qf huà;gd wén;tw zhèng;bv	10
 皮肤混合瘤	pí;vi fū;qf hùn;db hé;nj liú;bt	10
 皮肤活检术	pí;vi fū;qf huó;dj jiǎn;mh shù;md	10
@@ -8731,7 +8730,7 @@ sort: by_weight
 太阳表郁轻证	tài;dd yáng;wg biǎo;qy yù;uw qīng;ig zhèng;jv	10
 太阳痰气痞证	tài;dd yáng;wg tán;bh qì;lv pǐ;bj zhèng;jv	10
 炭疽性败血症	tàn;uh jū;bq xìng;xq bài;nw xuè;lm zhèng;bv	10
-碳矽末沉着症	tàn;uh xī;ux mò;hy chén;df zhuó;bq zhèng;bv	10
+碳矽末沉着症	tàn;uh xī; mò;hy chén;df zhuó;bq zhèng;bv	10
 糖尿病性肠病	táng;mj niào;uu bìng;bb xìng;xq cháng;ql bìng;bb	10
 糖尿病性肝病	táng;mj niào;uu bìng;bb xìng;xq gān;qg bìng;bb	10
 糖尿病性骨病	táng;mj niào;uu bìng;bb xìng;xq gǔ;uq bìng;bb	10
@@ -13363,7 +13362,7 @@ sort: by_weight
 人工膜肺氧合器	rén;ly gōng;hh mó;qd fèi;qu yǎng;qy hé;nj qì;jj	10
 人工气管置换术	rén;ly gōng;hh qì;lv guǎn;vj zhì;qq huàn;yd shù;md	10
 人工食管重建术	rén;ly gōng;hh shí;ng guǎn;vj chóng;lh jiàn;lu shù;md	10
-人工下巴植入术	rén;ly gōng;hh xià;hb bā;mu zhí;mq rù;ly shù;md	10
+人工下巴植入术	rén;ly gōng;hh xià;hb ba;mu zhí;mq rù;ly shù;md	10
 人工心脏起搏器	rén;ly gōng;hh xīn;dd zàng;qt qǐ;tm bó;yf qì;jj	10
 人工血管置换术	rén;ly gōng;hh xuè;lm guǎn;vj zhì;qq huàn;yd shù;md	10
 人工阴道成形术	rén;ly gōng;hh yīn;wq dào;lw chéng;wv xíng;hl shù;md	10

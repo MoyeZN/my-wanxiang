@@ -3846,7 +3846,7 @@ sort: by_weight
 大田县	dà;uy tián;ju xiàn;qt	228
 大田乡	dà;uy tián;ju xiāng;vl	1
 大畠站	dà;uy tián; zhàn;lj	315
-大畑站	dà;uy tián;ht zhàn;lj	213
+大畑站	dà;uy tián; zhàn;lj	213
 大田镇	dà;uy tián;ju zhèn;xb	1
 大庭站	dà;uy tíng;gl zhàn;lj	446
 大町站	dà;uy tīng;td zhàn;lj	84
@@ -8395,7 +8395,7 @@ sort: by_weight
 黄坳村	huáng;fb ào;tl cūn;mf	112
 黄岙村	huáng;fb ào;yu cūn;mf	69
 黄坳乡	huáng;fb ào;tl xiāng;vl	127
-黄垇乡	huáng;fb ào;th xiāng;vl	1
+黄垇乡	huáng;fb ào; xiāng;vl	1
 黄坝村	huáng;fb bà;tn cūn;mf	1
 黄坝乡	huáng;fb bà;tn xiāng;vl	1
 黄板镇	huáng;fb bǎn;mi zhèn;xb	1
@@ -31327,7 +31327,7 @@ sort: by_weight
 村久佐村	cūn;mf jiǔ;ly zuǒ;ng cūn;mf	1
 村拉洛村	cūn;mf lā;yl luò;dj cūn;mf	1
 村濑加村	cūn;mf lài;dn jiā;lj cūn;mf	1
-村蓝畑村	cūn;mf lán;fm tián;ht cūn;mf	1
+村蓝畑村	cūn;mf lán;fm tián; cūn;mf	1
 村理川镇	cūn;mf lǐ;wl chuān;lu zhèn;xb	1
 村梨丰乡	cūn;mf lí;hm fēng;hu xiāng;vl	1
 村里集镇	cūn;mf lǐ;uh jí;nm zhèn;xb	1
@@ -31452,7 +31452,7 @@ sort: by_weight
 村元柏村	cūn;mf yuán;hf bǎi;mb cūn;mf	1
 村渊崎村	cūn;mf yuān;du qí;uj cūn;mf	1
 村云凤村	cūn;mf yún;ht fèng;fi cūn;mf	1
-村云畑村	cūn;mf yún;ht tián;ht cūn;mf	1
+村云畑村	cūn;mf yún;ht tián; cūn;mf	1
 村云毓村	cūn;mf yún;ht yù;lv cūn;mf	1
 村泽谷村	cūn;mf zé;du gǔ;bj cūn;mf	1
 村真浦村	cūn;mf zhēn;ub pǔ;df cūn;mf	1
@@ -40854,7 +40854,7 @@ sort: by_weight
 黄田岙村	huáng;fb tián;ju ào;yu cūn;mf	1
 黄天荡村	huáng;fb tiān;hd dàng;fl cūn;mf	1
 黄田港村	huáng;fb tián;ju gǎng;dm cūn;mf	1
-荒畑寒村	huāng;fv tián;ht hán;bd cūn;mf	1
+荒畑寒村	huāng;fv tián; hán;bd cūn;mf	1
 黄田街道	huáng;fb tián;ju jiē;ii dào;lw	1
 黄田铺镇	huáng;fb tián;ju pù;xf zhèn;xb	1
 黄亭市镇	huáng;fb tíng;wd shì;wt zhèn;xb	1
@@ -52644,7 +52644,7 @@ sort: by_weight
 汝瓷小镇	rǔ;dy cí;bw xiǎo;ud zhèn;xb	1
 如东沿海	rú;yj dōng;hd yán;dj hǎi;dm	1
 如恩纳村	rú;yj ēn;jx nà;tn cūn;mf	1
-入広瀬村	rù;ly guǎng;gt lài; cūn;mf	1
+入広瀬村	rù;ly guǎng; lài; cūn;mf	1
 茹家庄村	rú;fj jiā;by zhuāng;gt cūn;mf	1
 乳家庄村	rǔ;lv jiā;by zhuāng;gt cūn;mf	0
 儒林堡村	rú;nu lín;mm bǎo;nt cūn;mf	1
@@ -66629,7 +66629,7 @@ sort: by_weight
 于此中乡	yú;hu cǐ;vb zhōng;uu xiāng;vl	1
 玉带街道	yù;wd dài;ht jiē;ii dào;lw	1
 玉带社区	yù;wd dài;ht shè;vt qū;ni	130
-御代咲村	yù;iw dài;ng xiào;jt cūn;mf	1
+御代咲村	yù;iw dài;ng xiào; cūn;mf	1
 峪道河镇	yù;uj dào;lw hé;dj zhèn;xb	1
 御道口乡	yù;iw dào;lw kǒu;uh xiāng;vl	1
 御道口镇	yù;iw dào;lw kǒu;uh zhèn;xb	1
@@ -72184,7 +72184,7 @@ sort: by_weight
 群加藏族乡	qún;vy jiā;lj zàng;fi zú;wt xiāng;vl	1
 群众路街道	qún;vy zhòng;nn lù;lj jiē;ii dào;lw	1
 染红的街道	rǎn;dm hóng;tg de;bd jiē;ii dào;lw	1
-热闹的街道	rè;yh nào;nt de;bd jiē;ii dào;lw	1
+热闹的街道	rè;yh nao;nt de;bd jiē;ii dào;lw	1
 热水塘街道	rè;yh shuǐ;uy táng;tj jiē;ii dào;lw	1
 热水汤街道	rè;yh shuǐ;uy tāng;dl jiē;ii dào;lw	0
 热斯坦街道	rè;yh sī;qd tǎn;th jiē;ii dào;lw	1
@@ -73347,7 +73347,7 @@ sort: by_weight
 姚庄回族乡	yáo;yd zhuāng;gt huí;jj zú;wt xiāng;vl	1
 叶柏寿街道	yè;ju bǎi;mb shòu;qf jiē;ii dào;lw	1
 叶尔羌街道	yè;ju ěr;dx qiāng;bv jiē;ii dào;lw	1
-叶尓羌街道	yè;ju ěr;lx qiāng;bv jiē;ii dào;lw	0
+叶尓羌街道	yè;ju ěr; qiāng;bv jiē;ii dào;lw	0
 夜明珠街道	yè;wy míng;gq zhū;ww jiē;ii dào;lw	1
 也木勒牧场	yě;vv mù;uy lè;gl mù;nw chǎng;tl	1
 夜晚的街道	yè;wy wǎn;gv de;bd jiē;ii dào;lw	1
