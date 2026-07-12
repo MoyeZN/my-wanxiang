@@ -8198,7 +8198,7 @@
 敹	uw
 苶	fx
 嚱	jg
-囧	jv
+囧	jn
 巭	gf
 沊	du
 䏕	qt
@@ -8251,3 +8251,12 @@
 麤	gb
 鿔	xj
 㗎	jm
+塃	tv
+塈	gt
+塮	tf
+朘	qw
+湨	dq
+矽	ux
+礳	uu
+耲	qy
+蹓	lt
