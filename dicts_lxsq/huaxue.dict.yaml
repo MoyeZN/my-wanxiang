@@ -1861,7 +1861,7 @@ sort: by_weight
 锗化镁	zhě;xg huà;nq měi;xd	144
 锗酸铋	zhě;xg suān;yw bì;xb	270
 锗酸钠	zhě;xg suān;yw nà;xn	117
-锗酸镤	zhě;xg suān;yw pú;xy	99
+锗酸镤	zhě;xg suān;yw pú;xf	99
 锗酸盐	zhě;xg suān;yw yán;tm	234
 正丙苯	zhèng;hv bǐng;hn běn;fb	171
 正丁苯	zhèng;hv dīng;hu běn;fb	144
@@ -4175,7 +4175,7 @@ sort: by_weight
 五氯化铼	wǔ;hh lǜ;qu huà;nq lái;xl	207
 五氯化磷	wǔ;hh lǜ;qu huà;nq lín;uu	418
 五氯化钼	wǔ;hh lǜ;qu huà;nq mù;xq	230
-五氯化镤	wǔ;hh lǜ;qu huà;nq pú;xy	153
+五氯化镤	wǔ;hh lǜ;qu huà;nq pú;xf	153
 五氯化钽	wǔ;hh lǜ;qu huà;nq tǎn;xh	270
 五氯化锑	wǔ;hh lǜ;qu huà;nq tī;xl	297
 五氯化钨	wǔ;hh lǜ;qu huà;nq wū;xw	171
@@ -4502,14 +4502,14 @@ sort: by_weight
 乙酸苯酯	yǐ;vv suān;yw běn;fb zhǐ;yg	50
 依他苯酮	yī;ny tā;nv běn;fb tóng;yj	50
 钇钽铁矿	yǐ;xv tǎn;xh tiě;xf kuàng;ug	45
-乙烷罐区	yǐ;vv wán;hf guàn;fq qū;ni	45
+乙烷罐区	yǐ;vv wán;hf guàn;wq qū;ni	45
 乙烷磺酸	yǐ;vv wán;hf huáng;ub suān;yw	130
 乙烯比妥	yǐ;vv xī;ht bǐ;bb tuǒ;ly	76
 乙烯产量	yǐ;vv xī;ht chǎn;ll liàng;gl	315
 乙烯雌醇	yǐ;vv xī;ht cí;vq chún;yw	45
 乙烯雌酚	yǐ;vv xī;ht cí;vq fēn;yd	6
 乙烯改性	yǐ;vv xī;ht gǎi;mw xìng;xq	144
-乙烯罐区	yǐ;vv xī;ht guàn;fq qū;ni	45
+乙烯罐区	yǐ;vv xī;ht guàn;wq qū;ni	45
 乙烯基苯	yǐ;vv xī;ht jī;qt běn;fb	369
 乙烯基醚	yǐ;vv xī;ht jī;qt mí;yl	248
 乙烯基溴	yǐ;vv xī;ht jī;qt xiù;dq	162
@@ -4783,13 +4783,13 @@ sort: by_weight
 氨基偶氮苯	ān;qy jī;qt ǒu;nd dàn;qh běn;fb	10
 氨基葡聚糖	ān;qy jī;qt pú;ff jù;wy táng;mj	10
 氨基葡糖酸	ān;qy jī;qt pú;ff táng;mj suān;yw	10
-氨基葡萄糖	ān;qy jī;qt pú;ff táo;ff táng;mj	10
+氨基葡萄糖	ān;qy jī;qt pú;ff táo;fn táng;mj	10
 氨基羟丁酸	ān;qy jī;qt qiǎng;bg dīng;hu suān;yw	10
 氨基羟酪酸	ān;qy jī;qt qiǎng;bg lào;yj suān;yw	10
 氨基羟嘌呤	ān;qy jī;qt qiǎng;bg piào;jx lìng;jv	10
 氨基羟乙酸	ān;qy jī;qt qiǎng;bg yǐ;vv suān;yw	10
 氨基青霉素	ān;qy jī;qt qīng;qq méi;ym sù;qx	10
-氨基缺氧塔	ān;qy jī;qt quē;fg yǎng;qy tǎ;tj	10
+氨基缺氧塔	ān;qy jī;qt quē;wg yǎng;qy tǎ;tj	10
 氨基噻二唑	ān;qy jī;qt sāi;jt èr;hh zuò;jt	10
 氨基噻唑啉	ān;qy jī;qt sāi;jt zuò;jt lín;jm	10
 氨基三氮唑	ān;qy jī;qt sān;hh dàn;qh zuò;jt	10
@@ -6172,7 +6172,7 @@ sort: by_weight
 氟比洛芬钠	fú;qf bǐ;bb luò;dj fēn;fd nà;xn	10
 氟比洛芬酯	fú;qf bǐ;bb luò;dj fēn;fd zhǐ;yg	10
 氟代雌二醇	fú;qf dài;ng cí;vq èr;hh chún;yw	10
-氟代葡萄糖	fú;qf dài;ng pú;ff táo;ff táng;mj	10
+氟代葡萄糖	fú;qf dài;ng pú;ff táo;fn táng;mj	10
 氟代硝酸氙	fú;qf dài;ng xiāo;uq suān;yw xiān;qu	10
 氟的同位素	fú;qf de;bd tóng;nj wèi;nl sù;qx	10
 𫓧的同位素	fū;bd de;nj tóng;nl wèi;qx sù;	10
@@ -6411,7 +6411,7 @@ sort: by_weight
 胱氨酸尿症	guāng;qf ān;qy suān;yw niào;uu zhèng;bv	10
 胱胺盐酸盐	guāng;qf àn;qy yán;tm suān;yw yán;tm	10
 光合磷酸化	guāng;xf hé;nj lín;uu suān;yw huà;nq	10
-胱硫酶缺乏	guāng;qf liú;uv méi;ym quē;fg fá;lv	10
+胱硫酶缺乏	guāng;qf liú;uv méi;ym quē;wg fá;lv	10
 胱硫醚合酶	guāng;qf liú;uv mí;yl hé;nj méi;ym	10
 光秋水仙碱	guāng;xf qiū;hh shuǐ;uy xiān;nu jiǎn;uj	10
 硅标准溶液	guī;ut biāo;mx zhǔn;bq róng;dj yè;dy	10
@@ -6803,7 +6803,7 @@ sort: by_weight
 甲基皮质醇	jiǎ;uu jī;qt pí;vi zhì;ln chún;yw	10
 甲基葡糖胺	jiǎ;uu jī;qt pú;ff táng;mj àn;qy	10
 甲基葡糖苷	jiǎ;uu jī;qt pú;ff táng;mj gān;fg	10
-甲基葡萄糖	jiǎ;uu jī;qt pú;ff táo;ff táng;mj	10
+甲基葡萄糖	jiǎ;uu jī;qt pú;ff táo;fn táng;mj	10
 甲基七叶醇	jiǎ;uu jī;qt qī;hv yè;ju chún;yw	10
 甲基羟吡啶	jiǎ;uu jī;qt qiǎng;bg bǐ;jb dìng;jn	10
 甲基羟基胺	jiǎ;uu jī;qt qiǎng;bg jī;qt àn;qy	10
@@ -6834,7 +6834,7 @@ sort: by_weight
 甲基丝氨酸	jiǎ;uu jī;qt sī;vh ān;qy suān;yw	10
 甲基四氮唑	jiǎ;uu jī;qt sì;jf dàn;qh zuò;jt	10
 甲基糖腈脒	jiǎ;uu jī;qt táng;mj jīng;qq mǐ;qm	10
-甲基陶斯松	jiǎ;uu jī;qt táo;wf sī;qd sōng;mt	10
+甲基陶斯松	jiǎ;uu jī;qt táo;wn sī;qd sōng;mt	10
 甲基替苯胺	jiǎ;uu jī;qt tì;fg běn;fb àn;qy	10
 甲基天冬酸	jiǎ;uu jī;qt tiān;hd dōng;wd suān;yw	10
 甲基托布津	jiǎ;uu jī;qt tuō;yq bù;ut jīn;du	10
@@ -6874,7 +6874,7 @@ sort: by_weight
 甲基乙酰胺	jiǎ;uu jī;qt yǐ;vv xiān;yf àn;qy	10
 甲基吲哚啉	jiǎ;uu jī;qt yǐn;ju duǒ;jm lín;jm	10
 甲基茚满酮	jiǎ;uu jī;qt yìn;fw mǎn;dl tóng;yj	10
-甲基罂粟碱	jiǎ;uu jī;qt yīng;nf sù;xm jiǎn;uj	10
+甲基罂粟碱	jiǎ;uu jī;qt yīng;nn sù;xm jiǎn;uj	10
 甲基硬脂酸	jiǎ;uu jī;qt yìng;ug zhī;qg suān;yw	10
 甲基育亨烷	jiǎ;uu jī;qt yù;wq hēng;wl wán;hf	10
 甲基正戊酸	jiǎ;uu jī;qt zhèng;hv wù;gl suān;yw	10
@@ -7055,7 +7055,7 @@ sort: by_weight
 碱式碳酸盐	jiǎn;uj shì;gg tàn;uh suān;yw yán;tm	10
 碱式硝酸铋	jiǎn;uj shì;gg xiāo;uq suān;yw bì;xb	10
 碱式硝酸钠	jiǎn;uj shì;gg xiāo;uq suān;yw nà;xn	10
-碱式硝酸镤	jiǎn;uj shì;gg xiāo;uq suān;yw pú;xy	10
+碱式硝酸镤	jiǎn;uj shì;gg xiāo;uq suān;yw pú;xf	10
 碱式氧化铝	jiǎn;uj shì;gg yǎng;qy huà;nq lǚ;xj	10
 碱式氧化镍	jiǎn;uj shì;gg yǎng;qy huà;nq niè;xm	10
 碱式乙酸锆	jiǎn;uj shì;gg yǐ;vv suān;yw gào;xj	10
@@ -7115,7 +7115,7 @@ sort: by_weight
 焦磷酸氧钒	jiāo;nh lín;uu suān;yw yǎng;qy fán;xf	10
 焦磷酸氧钨	jiāo;nh lín;uu suān;yw yǎng;qy wū;xw	10
 焦蓬莪术酮	jiāo;nh péng;fl é;fd zhú;md tóng;yj	10
-焦葡萄酸钠	jiāo;nh pú;ff táo;ff suān;yw nà;xn	10
+焦葡萄酸钠	jiāo;nh pú;ff táo;fn suān;yw nà;xn	10
 焦性硼酸钠	jiāo;nh xìng;xq péng;uq suān;yw nà;xn	12
 焦亚磷酸盐	jiāo;nh yà;hy lín;uu suān;yw yán;tm	10
 焦亚硫酸钾	jiāo;nh yà;hy liú;uv suān;yw jiǎ;xt	12
@@ -7504,7 +7504,7 @@ sort: by_weight
 磷脂脂肪酸	lín;uu zhī;qg zhī;qg fáng;qw suān;yw	10
 灵芝酮三醇	líng;uh zhī;fv tóng;yj sān;hh chún;yw	10
 硫胺分解酶	liú;uv àn;qy fēn;bd jiě;dn méi;ym	10
-硫胺缺乏症	liú;uv àn;qy quē;fg fá;lv zhèng;bv	10
+硫胺缺乏症	liú;uv àn;qy quē;wg fá;lv zhèng;bv	10
 硫胺盐酸盐	liú;uv àn;qy yán;tm suān;yw yán;tm	10
 硫巴比妥酸	liú;uv bā;mu bǐ;bb tuǒ;ly suān;yw	10
 硫半衰期天	liú;uv bàn;du shuāi;wy qī;qq tiān;hd	10
@@ -7550,7 +7550,7 @@ sort: by_weight
 硫代鸟嘌呤	liú;uv dài;ng niǎo;wh piào;jx lìng;jv	10
 硫代鸟嘌岭	liú;uv dài;ng niǎo;wh piào;jx lǐng;uv	10
 硫代苹果酸	liú;uv dài;ng píng;fh guǒ;uy suān;yw	10
-硫代葡萄糖	liú;uv dài;ng pú;ff táo;ff táng;mj	10
+硫代葡萄糖	liú;uv dài;ng pú;ff táo;fn táng;mj	10
 硫代砷酸盐	liú;uv dài;ng shēn;ut suān;yw yán;tm	10
 硫代双甲烷	liú;uv dài;ng shuāng;ii jiǎ;uu wán;hf	12
 硫代水杨酸	liú;uv dài;ng shuǐ;uy yáng;ml suān;yw	10
@@ -8015,7 +8015,7 @@ sort: by_weight
 萘肼盐酸盐	nài;fx jǐng;qj yán;tm suān;yw yán;tm	10
 萘醌磺酸钾	nài;fx kūn;yb huáng;ub suān;yw jiǎ;xt	10
 萘磷酸钠盐	nài;fx lín;uu suān;yw nà;xn yán;tm	10
-耐酸缸瓦器	nài;hf suān;yw gāng;fg wǎ;hd qì;jj	10
+耐酸缸瓦器	nài;hf suān;yw gāng;wg wǎ;hd qì;jj	10
 萘氧基乙酸	nài;fx yǎng;qy jī;qt yǐ;vv suān;yw	10
 萘氧氯化磷	nài;fx yǎng;qy lǜ;qu huà;nq lín;uu	10
 萘乙酸甲酯	nài;fx yǐ;vv suān;yw jiǎ;uu zhǐ;yg	10
@@ -8115,11 +8115,11 @@ sort: by_weight
 葡糖醛酸钠	pú;ff táng;mj quán;yw suān;yw nà;xn	10
 葡糖酸钾盐	pú;ff táng;mj suān;yw jiǎ;xt yán;tm	10
 葡糖酸内酯	pú;ff táng;mj suān;yw nèi;ud zhǐ;yg	10
-葡萄糖酸钾	pú;ff táo;ff táng;mj suān;yw jiǎ;xt	10
-葡萄糖酸镁	pú;ff táo;ff táng;mj suān;yw měi;xd	10
-葡萄糖酸钠	pú;ff táo;ff táng;mj suān;yw nà;xn	10
-葡萄糖酸铜	pú;ff táo;ff táng;mj suān;yw tóng;xj	10
-葡萄糖酸锌	pú;ff táo;ff táng;mj suān;yw xīn;xx	10
+葡萄糖酸钾	pú;ff táo;fn táng;mj suān;yw jiǎ;xt	10
+葡萄糖酸镁	pú;ff táo;fn táng;mj suān;yw měi;xd	10
+葡萄糖酸钠	pú;ff táo;fn táng;mj suān;yw nà;xn	10
+葡萄糖酸铜	pú;ff táo;fn táng;mj suān;yw tóng;xj	10
+葡萄糖酸锌	pú;ff táo;fn táng;mj suān;yw xīn;xx	10
 普通话二甲	pǔ;bg tōng;lu huà;jj èr;hh jiǎ;uu	10
 七氟丙氧基	qī;hv fú;qf bǐng;hn yǎng;qy jī;qt	10
 七氟丁酸酐	qī;hv fú;qf dīng;hu suān;yw gān;yg	10
@@ -8916,7 +8916,7 @@ sort: by_weight
 酸奶酱酱茶	suān;yw nǎi;yn jiàng;by jiàng;by chá;fm	10
 酸奶小王紫	suān;yw nǎi;yn xiǎo;ud wáng;ht zǐ;vx	10
 酸屁孩软糖	suān;yw pì;ub hái;wn ruǎn;in táng;mj	10
-酸葡萄心理	suān;yw pú;ff táo;ff xīn;dd lǐ;wl	10
+酸葡萄心理	suān;yw pú;ff táo;fn xīn;dd lǐ;wl	10
 酸气分离器	suān;yw qì;lv fēn;bd lí;wd qì;jj	10
 酸气空冷器	suān;yw qì;lv kōng;bg lěng;bv qì;jj	10
 酸三甲基锍	suān;yw sān;hh jiǎ;uu jī;qt liǔ;xv	10
@@ -8928,7 +8928,7 @@ sort: by_weight
 酸式碳酸钾	suān;yw shì;gg tàn;uh suān;yw jiǎ;xt	10
 酸式碳酸锂	suān;yw shì;gg tàn;uh suān;yw lǐ;xl	10
 酸式碳酸钠	suān;yw shì;gg tàn;uh suān;yw nà;xn	10
-酸水回流罐	suān;yw shuǐ;uy huí;jj liú;dv guàn;fq	10
+酸水回流罐	suān;yw shuǐ;uy huí;jj liú;dv guàn;wq	10
 酸水解酪素	suān;yw shuǐ;uy jiě;dn lào;yj sù;qx	10
 酸四氨合铂	suān;yw sì;jf ān;qy hé;nj bó;xb	10
 酸四丁基铵	suān;yw sì;jf dīng;hu jī;qt ǎn;xy	10
@@ -9241,7 +9241,7 @@ sort: by_weight
 五氧化二氯	wǔ;hh yǎng;qy huà;nq èr;hh lǜ;qu	10
 五氧化二镎	wǔ;hh yǎng;qy huà;nq èr;hh ná;xu	10
 五氧化二铌	wǔ;hh yǎng;qy huà;nq èr;hh ní;xb	10
-五氧化二镤	wǔ;hh yǎng;qy huà;nq èr;hh pú;xy	10
+五氧化二镤	wǔ;hh yǎng;qy huà;nq èr;hh pú;xf	10
 五氧化二砷	wǔ;hh yǎng;qy huà;nq èr;hh shēn;ut	10
 五氧化二钽	wǔ;hh yǎng;qy huà;nq èr;hh tǎn;xh	10
 五氧化二锑	wǔ;hh yǎng;qy huà;nq èr;hh tī;xl	10
@@ -9642,7 +9642,7 @@ sort: by_weight
 盐酸氢考酮	yán;tm suān;yw qīng;qg kǎo;lv tóng;yj	10
 盐酸巯乙胺	yán;tm suān;yw qiú;vv yǐ;vv àn;qy	10
 盐酸曲恩汀	yán;tm suān;yw qǔ;uh ēn;jx tīng;dd	10
-烟酸缺乏症	yān;hd suān;yw quē;fg fá;lv zhèng;bv	10
+烟酸缺乏症	yān;hd suān;yw quē;wg fá;lv zhèng;bv	10
 盐酸塞庚啶	yán;tm suān;yw sāi;bt gēng;gy dìng;jn	10
 盐酸赛庚啶	yán;tm suān;yw sài;bn gēng;gy dìng;jn	10
 盐酸山梗碱	yán;tm suān;yw shān;un gěng;mg jiǎn;uj	10
@@ -9712,7 +9712,7 @@ sort: by_weight
 氧杂环戊烷	yǎng;qy zá;lm huán;wb wù;gl wán;hf	12
 药物油溶液	yào;fd wù;nl yóu;dt róng;dj yè;dy	10
 液硫捕集器	yè;dy liú;uv bǔ;yf jí;nm qì;jj	10
-叶酸缺乏症	yè;ju suān;yw quē;fg fá;lv zhèng;bv	10
+叶酸缺乏症	yè;ju suān;yw quē;wg fá;lv zhèng;bv	10
 乙胺醇溶液	yǐ;vv àn;qy chún;yw róng;dj yè;dy	10
 乙胺碘肤酮	yǐ;vv àn;qy diǎn;ub fū;qf tóng;yj	10
 乙氨基甲酚	yǐ;vv ān;qy jī;qt jiǎ;uu fēn;yd	10
@@ -9807,7 +9807,7 @@ sort: by_weight
 铱金火花塞	yī;xy jīn;nh huǒ;dn huā;fq sāi;bt	10
 异抗坏血酸	yì;mf kàng;yf huài;tb xuè;lm suān;yw	10
 一颗酸梅啊	yì;hh kē;gn suān;yw méi;mm a;jj	10
-一粒酸葡萄	yí;hh lì;ml suān;yw pú;ff táo;ff	10
+一粒酸葡萄	yí;hh lì;ml suān;yw pú;ff táo;fn	10
 伊利优酸乳	yī;nl lì;hd yōu;ny suān;yw rǔ;lv	10
 一磷酸胞苷	yī;hh lín;uu suān;yw bāo;qm gān;fg	10
 一磷酸肌苷	yī;hh lín;uu suān;yw jī;qf gān;fg	10
@@ -10295,7 +10295,7 @@ sort: by_weight
 氨基脲基戊酸	ān;qy jī;qt niào;qu jī;qt wù;gl suān;yw	10
 氨基脲盐酸盐	ān;qy jī;qt niào;qu yán;tm suān;yw yán;tm	10
 氨基偶氮甲苯	ān;qy jī;qt ǒu;nd dàn;qh jiǎ;uu běn;fb	10
-氨基葡萄糖酸	ān;qy jī;qt pú;ff táo;ff táng;mj suān;yw	10
+氨基葡萄糖酸	ān;qy jī;qt pú;ff táo;fn táng;mj suān;yw	10
 氨基羟基吡啶	ān;qy jī;qt qiǎng;bg jī;qt bǐ;jb dìng;jn	10
 氨基羟基丙酸	ān;qy jī;qt qiǎng;bg jī;qt bǐng;hn suān;yw	10
 氨基羟基丁酸	ān;qy jī;qt qiǎng;bg jī;qt dīng;hu suān;yw	10
@@ -10326,7 +10326,7 @@ sort: by_weight
 氨基酸复合体	ān;qy jī;qt suān;yw fù;lw hé;nj tǐ;nb	10
 氨基酸聚合物	ān;qy jī;qt suān;yw jù;wy hé;nj wù;nl	10
 氨基酸连接酶	ān;qy jī;qt suān;yw lián;li jiē;yy méi;ym	10
-氨基酸葡萄糖	ān;qy jī;qt suān;yw pú;ff táo;ff táng;mj	10
+氨基酸葡萄糖	ān;qy jī;qt suān;yw pú;ff táo;fn táng;mj	10
 氨基酸球菌目	ān;qy jī;qt suān;yw qiú;wq jūn;fh mù;jh	10
 氨基酸山梨醇	ān;qy jī;qt suān;yw shān;un lí;hm chún;yw	10
 氨基酸脱氢酶	ān;qy jī;qt suān;yw tuō;qf qīng;qg méi;ym	10
@@ -10412,8 +10412,8 @@ sort: by_weight
 钡镉锌稳定剂	bèi;xn gé;xd xīn;xx wěn;hx dìng;bn jì;wd	10
 北极甲烷释出	běi;ub jí;my jiǎ;uu wán;hf shì;lu chū;vn	10
 钡及其化合物	bèi;xn jí;ly qí;qb huà;nq hé;nj wù;nl	10
-苝四甲酸二酐	bèi; sì;jf jiǎ;uu suān;yw èr;hh gān;yg	10
-苝四羧酸二酐	bèi; sì;jf suō;bw suān;yw èr;hh gān;yg	10
+苝四甲酸二酐	bèi;fb sì;jf jiǎ;uu suān;yw èr;hh gān;yg	10
+苝四羧酸二酐	bèi;fb sì;jf suō;bw suān;yw èr;hh gān;yg	10
 苯胺高氯酸盐	běn;fb àn;qy gāo;wj lǜ;qu suān;yw yán;tm	10
 苯氨基萘磺酸	běn;fb ān;qy jī;qt nài;fx huáng;ub suān;yw	10
 苯胺基萘磺酸	běn;fb àn;qy jī;qt nài;fx huáng;ub suān;yw	10
@@ -10870,7 +10870,7 @@ sort: by_weight
 低钠低氯血症	dī;nd nà;xn dī;nd lǜ;qu xuè;lm zhèng;bv	10
 地三鲜与酸奶	dì;tv sān;hh xiān;gy yǔ;hh suān;yw nǎi;yn	10
 鸐式唐松草碱	dí; shì;gg táng;gj sōng;mt cǎo;fu jiǎn;uj	10
-低温乙烷储罐	dī;nd wēn;dm yǐ;vv wán;hf chǔ;ng guàn;fq	10
+低温乙烷储罐	dī;nd wēn;dm yǐ;vv wán;hf chǔ;ng guàn;wq	10
 低压脱硫部分	dī;nd yā;id tuō;qf liú;uv bù;lw fen;bd	10
 地衣酸还原酶	dì;tv yī;wy suān;yw huán;lb yuán;ix méi;ym	10
 地衣酸羟化酶	dì;tv yī;wy suān;yw qiǎng;bg huà;nq méi;ym	10
@@ -11169,7 +11169,7 @@ sort: by_weight
 二丙基醋酸钠	èr;hh bǐng;hn jī;qt cù;yg suān;yw nà;xn	10
 二丙基醋酸盐	èr;hh bǐng;hn jī;qt cù;yg suān;yw yán;tm	10
 二丙酸美雄醇	èr;hh bǐng;hn suān;yw měi;bd xióng;uq chún;yw	10
-二丙酮葡萄糖	èr;hh bǐng;hn tóng;yj pú;ff táo;ff táng;mj	10
+二丙酮葡萄糖	èr;hh bǐng;hn tóng;yj pú;ff táo;fn táng;mj	10
 二草酸根合钯	èr;hh cǎo;fu suān;yw gēn;mg hé;nj bǎ;xm	10
 二草酸根合铜	èr;hh cǎo;fu suān;yw gēn;mg hé;nj tóng;xj	10
 二草酸四羟基	èr;hh cǎo;fu suān;yw sì;jf qiǎng;bg jī;qt	10
@@ -11362,7 +11362,7 @@ sort: by_weight
 二磷酸甘油醛	èr;hh lín;uu suān;yw gān;nh yóu;dt quán;yw	10
 二磷酸甘油酸	èr;hh lín;uu suān;yw gān;nh yóu;dt suān;yw	10
 二磷酸核酮糖	èr;hh lín;uu suān;yw hé;mn tóng;yj táng;mj	10
-二磷酸葡萄糖	èr;hh lín;uu suān;yw pú;ff táo;ff táng;mj	10
+二磷酸葡萄糖	èr;hh lín;uu suān;yw pú;ff táo;fn táng;mj	10
 二磷酸腺苷酶	èr;hh lín;uu suān;yw xiàn;qu gān;fg méi;ym	10
 二硫赤丝草醇	èr;hh liú;uv chì;td sī;vh cǎo;fu chún;yw	10
 二硫代苯甲酸	èr;hh liú;uv dài;ng běn;fb jiǎ;uu suān;yw	10
@@ -11764,7 +11764,7 @@ sort: by_weight
 氟甲基苯硼酸	fú;qf jiǎ;uu jī;qt běn;fb péng;uq suān;yw	10
 氟康唑滴眼液	fú;qf kāng;gy zuò;jt dī;dj yǎn;qg yè;dy	10
 氟康唑氯化钠	fú;qf kāng;gy zuò;jt lǜ;qu huà;nq nà;xn	10
-氟康唑葡萄糖	fú;qf kāng;gy zuò;jt pú;ff táo;ff táng;mj	10
+氟康唑葡萄糖	fú;qf kāng;gy zuò;jt pú;ff táo;fn táng;mj	10
 富亮氨酸重复	fù;bt liàng;wf ān;qy suān;yw chóng;lh fù;lw	10
 氟罗沙星冻干	fú;qf luó;qx shā;dl xīng;gq dòng;bd gān;hu	10
 氟氯二溴甲烷	fú;qf lǜ;qu èr;hh xiù;dq jiǎ;uu wán;hf	10
@@ -11807,7 +11807,7 @@ sort: by_weight
 氟脱氯氯胺酮	fú;qf tuō;qf lǜ;qu lǜ;qu àn;qy tóng;yj	10
 氟脱氧尿苷酸	fú;qf tuō;qf yǎng;qy niào;uu gān;fg suān;yw	10
 氟脱氧尿核苷	fú;qf tuō;qf yǎng;qy niào;uu hé;mn gān;fg	10
-氟脱氧葡萄糖	fú;qf tuō;qf yǎng;qy pú;ff táo;ff táng;mj	10
+氟脱氧葡萄糖	fú;qf tuō;qf yǎng;qy pú;ff táo;fn táng;mj	10
 夫西地酸乳膏	fū;hy xī;hh dì;tv suān;yw rǔ;lv gāo;wq	10
 氟硝基苯甲酸	fú;qf xiāo;uq jī;qt běn;fb jiǎ;uu suān;yw	10
 氟溴二碘甲烷	fú;qf xiù;dq èr;hh diǎn;ub jiǎ;uu wán;hf	10
@@ -11930,7 +11930,7 @@ sort: by_weight
 固体二氧化碳	gù;jj tǐ;nb èr;hh yǎng;qy huà;nq tàn;uh	10
 谷酰胺脯氨酸	gǔ;bj xiān;yf àn;qy pú;qf ān;qy suān;yw	10
 谷甾醇葡糖苷	gǔ;bj zāi;vt chún;yw pú;ff táng;mj gān;fg	10
-谷甾醇葡萄苷	gǔ;bj zāi;vt chún;yw pú;ff táo;ff gān;fg	10
+谷甾醇葡萄苷	gǔ;bj zāi;vt chún;yw pú;ff táo;fn gān;fg	10
 寡核苷酸探针	guǎ;bd hé;mn gān;fg suān;yw tàn;ym zhēn;xu	10
 胍甲酸叔丁酯	guā;qg jiǎ;uu suān;yw shū;ui dīng;hu zhǐ;yg	10
 寡脱氧核苷酸	guǎ;bd tuō;qf yǎng;qy hé;mn gān;fg suān;yw	10
@@ -12299,7 +12299,7 @@ sort: by_weight
 甲基尼克酰胺	jiǎ;uu jī;qt ní;ub kè;uf xiān;yf àn;qy	10
 甲基牛磺酸盐	jiǎ;uu jī;qt niú;lu huáng;ub suān;yw yán;tm	10
 甲基泼尼松龙	jiǎ;uu jī;qt pō;dd ní;ub sōng;mt lóng;ud	10
-甲基葡萄糖胺	jiǎ;uu jī;qt pú;ff táo;ff táng;mj àn;qy	10
+甲基葡萄糖胺	jiǎ;uu jī;qt pú;ff táo;fn táng;mj àn;qy	10
 甲基前列腺素	jiǎ;uu jī;qt qián;bd liè;dd xiàn;qu sù;qx	10
 甲基强的松龙	jiǎ;uu jī;qt qiáng;gi dì;bd sōng;mt lóng;ud	10
 甲基羟基丙腈	jiǎ;uu jī;qt qiǎng;bg jī;qt bǐng;hn jīng;qq	10
@@ -12397,7 +12397,7 @@ sort: by_weight
 甲醛肟盐酸盐	jiǎ;uu quán;yw wò;qv yán;tm suān;yw yán;tm	10
 甲三烯炔诺酮	jiǎ;uu sān;hh xī;ht quē;hg nuò;jj tóng;yj	10
 甲哨唑氯乙定	jiǎ;uu shào;jq zuò;jt lǜ;qu yǐ;vv dìng;bn	10
-甲四氢罂粟碱	jiǎ;uu sì;jf qīng;qg yīng;nf sù;xm jiǎn;uj	10
+甲四氢罂粟碱	jiǎ;uu sì;jf qīng;qg yīng;nn sù;xm jiǎn;uj	10
 甲酸里哪醇酯	jiǎ;uu suān;yw lǐ;uh nǎ;jw chún;yw zhǐ;yg	10
 甲酸双氢睾酮	jiǎ;uu suān;yw shuāng;ii qīng;qg gāo;lx tóng;yj	10
 甲酸硝基苯酯	jiǎ;uu suān;yw xiāo;uq jī;qt běn;fb zhǐ;yg	10
@@ -12686,7 +12686,7 @@ sort: by_weight
 抗坏血酸钙盐	kàng;yf huài;tb xuè;lm suān;yw gài;xg yán;tm	10
 抗坏血酸镁盐	kàng;yf huài;tb xuè;lm suān;yw měi;xd yán;tm	10
 抗坏血酸钠盐	kàng;yf huài;tb xuè;lm suān;yw nà;xn yán;tm	10
-抗坏血酸缺乏	kàng;yf huài;tb xuè;lm suān;yw quē;fg fá;lv	10
+抗坏血酸缺乏	kàng;yf huài;tb xuè;lm suān;yw quē;wg fá;lv	10
 抗尿毒氨基酸	kàng;yf niào;uu dú;qm ān;qy jī;qt suān;yw	10
 糠酸二氯尼特	kāng;my suān;yw èr;hh lǜ;qu ní;ub tè;nf	10
 糠酸氟替卡松	kāng;my suān;yw fú;qf tì;fg kǎ;ub sōng;mt	10
@@ -12703,7 +12703,7 @@ sort: by_weight
 库车绿氢项目	kù;gi chē;hu lǜ;tu qīng;qg xiàng;gn mù;jh	10
 苦醛腐蚀溶液	kǔ;fj quán;yw fǔ;gn shí;ui róng;dj yè;dy	10
 苦参碱氯化钠	kǔ;fj shēn;tl jiǎn;uj lǜ;qu huà;nq nà;xn	10
-苦参碱葡萄糖	kǔ;fj shēn;tl jiǎn;uj pú;ff táo;ff táng;mj	10
+苦参碱葡萄糖	kǔ;fj shēn;tl jiǎn;uj pú;ff táo;fn táng;mj	10
 苦参素氯化钠	kǔ;fj shēn;tl sù;qx lǜ;qu huà;nq nà;xn	10
 苦味酸胭脂红	kǔ;fj wèi;jw suān;yw yān;qd zhī;qg hóng;tg	10
 苦胭脂红溶液	kǔ;fj yān;qd zhī;qg hóng;tg róng;dj yè;dy	10
@@ -12884,8 +12884,8 @@ sort: by_weight
 磷酸钠纤维素	lín;uu suān;yw nà;xn xiān;tq wéi;tq sù;qx	10
 磷酸萘酯钙盐	lín;uu suān;yw nài;fx zhǐ;yg gài;xg yán;tm	10
 磷酸葡糖苷酶	lín;uu suān;yw pú;ff táng;mj gān;fg méi;ym	10
-磷酸葡萄糖酶	lín;uu suān;yw pú;ff táo;ff táng;mj méi;ym	10
-磷酸葡萄糖酸	lín;uu suān;yw pú;ff táo;ff táng;mj suān;yw	10
+磷酸葡萄糖酶	lín;uu suān;yw pú;ff táo;fn táng;mj méi;ym	10
+磷酸葡萄糖酸	lín;uu suān;yw pú;ff táo;fn táng;mj suān;yw	10
 磷酸羟基哌喹	lín;uu suān;yw qiǎng;bg jī;qt pài;jy kuí;jt	10
 磷酸氢根离子	lín;uu suān;yw qīng;qg gēn;mg lí;wd zǐ;vh	10
 磷酸三甲苯酯	lín;uu suān;yw sān;hh jiǎ;uu běn;fb zhǐ;yg	10
@@ -12954,8 +12954,8 @@ sort: by_weight
 硫代硫酸金钠	liú;uv dài;ng liú;uv suān;yw jīn;nh nà;xn	10
 硫代鸟苷水合	liú;uv dài;ng niǎo;wh gān;fg shuǐ;uy hé;nj	10
 硫代葡糖苷酶	liú;uv dài;ng pú;ff táng;mj gān;fg méi;ym	10
-硫代葡萄糖甙	liú;uv dài;ng pú;ff táo;ff táng;mj dài;gg	10
-硫代葡萄糖苷	liú;uv dài;ng pú;ff táo;ff táng;mj gān;fg	10
+硫代葡萄糖甙	liú;uv dài;ng pú;ff táo;fn táng;mj dài;gg	10
+硫代葡萄糖苷	liú;uv dài;ng pú;ff táo;fn táng;mj gān;fg	10
 硫代氢化铝锂	liú;uv dài;ng qīng;qg huà;nq lǚ;xj lǐ;xl	10
 硫代噻唑烷酮	liú;uv dài;ng sāi;jt zuò;jt wán;hf tóng;yj	10
 硫代山梨糖醇	liú;uv dài;ng shān;un lí;hm táng;mj chún;yw	10
@@ -13006,7 +13006,7 @@ sort: by_weight
 六甲基乙硅烷	liù;wb jiǎ;uu jī;qt yǐ;vv guī;ut wán;hf	10
 六价硫化合物	liù;wb jià;nu liú;uv huà;nq hé;nj wù;nl	10
 六价硒化合物	liù;wb jià;nu xī;ux huà;nq hé;nj wù;nl	10
-硫解酶缺乏症	liú;uv jiě;dn méi;ym quē;fg fá;lv zhèng;bv	10
+硫解酶缺乏症	liú;uv jiě;dn méi;ym quē;wg fá;lv zhèng;bv	10
 六聚偏磷酸钠	liù;wb jù;wy piān;nf lín;uu suān;yw nà;xn	10
 琉璃糖碳基酸	liú;wv lí;wd táng;mj tàn;uh jī;qt suān;yw	10
 硫柳汞和疫苗	liú;uv liǔ;mw gǒng;gu hé;hj yì;bi miáo;ft	10
@@ -13201,7 +13201,7 @@ sort: by_weight
 氯化琥珀胆碱	lǜ;qu huà;nq hǔ;wf pò;wb dǎn;qh jiǎn;uj	10
 氯化己二醯基	lǜ;qu huà;nq jǐ;vv èr;hh xī;ym jī;qt	10
 氯化钾饱和液	lǜ;qu huà;nq jiǎ;xt bǎo;um hé;hj yè;dy	10
-氯化钾葡萄糖	lǜ;qu huà;nq jiǎ;xt pú;ff táo;ff táng;mj	10
+氯化钾葡萄糖	lǜ;qu huà;nq jiǎ;xt pú;ff táo;fn táng;mj	10
 氯化钾塑料瓶	lǜ;qu huà;nq jiǎ;xt sù;bt liào;mu píng;bw	10
 氯化聚氯乙烯	lǜ;qu huà;nq jù;wy lǜ;qu yǐ;vv xī;ht	10
 氯化六氨合铂	lǜ;qu huà;nq liù;wb ān;qy hé;nj bó;xb	10
@@ -13357,7 +13357,7 @@ sort: by_weight
 萘氧基氯化膦	nài;fx yǎng;qy jī;qt lǜ;qu huà;nq lìn;qu	10
 萘异硫氰酸酯	nài;fx yì;mf liú;uv qíng;qq suān;yw zhǐ;yg	10
 南京烷基苯厂	nán;ug jīng;wx wán;hf jī;qt běn;fb chǎng;hl	10
-脑叶酸缺乏症	nǎo;qn yè;ju suān;yw quē;fg fá;lv zhèng;bv	10
+脑叶酸缺乏症	nǎo;qn yè;ju suān;yw quē;wg fá;lv zhèng;bv	10
 内布拉斯加酸	nèi;ud bù;ut lā;yl sī;qd jiā;lj suān;yw	10
 内消旋胱氨酸	nèi;ud xiāo;dq xuán;wn guāng;qf ān;qy suān;yw	10
 内硝旋胱氨酸	nèi;ud xiāo;uq xuán;wn guāng;qf ān;qy suān;yw	10
@@ -13446,17 +13446,17 @@ sort: by_weight
 葡糖苷酸睾酮	pú;ff táng;mj gān;fg suān;yw gāo;lx tóng;yj	10
 葡糖磷酸钡盐	pú;ff táng;mj lín;uu suān;yw bèi;xn yán;tm	10
 葡糖醛酸内酯	pú;ff táng;mj quán;yw suān;yw nèi;ud zhǐ;yg	10
-葡萄酒中的酸	pú;ff táo;ff jiǔ;dy zhōng;uu de;bd suān;yw	10
-葡萄醛酸内酯	pú;ff táo;ff quán;yw suān;yw nèi;ud zhǐ;yg	10
-葡萄糖氯化钠	pú;ff táo;ff táng;mj lǜ;qu huà;nq nà;xn	10
-葡萄糖醛酸钠	pú;ff táo;ff táng;mj quán;yw suān;yw nà;xn	10
-葡萄糖酸钙维	pú;ff táo;ff táng;mj suān;yw gài;xg wéi;tq	10
-葡萄糖酸钙锌	pú;ff táo;ff táng;mj suān;yw gài;xg xīn;xx	10
-葡萄糖酸钙针	pú;ff táo;ff táng;mj suān;yw gài;xg zhēn;xu	10
-葡萄糖酸内酯	pú;ff táo;ff táng;mj suān;yw nèi;ud zhǐ;yg	10
-葡萄糖酸锑钠	pú;ff táo;ff táng;mj suān;yw tī;xl nà;xn	10
-葡萄糖酸亚铁	pú;ff táo;ff táng;mj suān;yw yà;hy tiě;xf	10
-葡萄糖氧化酶	pú;ff táo;ff táng;mj yǎng;qy huà;nq méi;ym	10
+葡萄酒中的酸	pú;ff táo;fn jiǔ;dy zhōng;uu de;bd suān;yw	10
+葡萄醛酸内酯	pú;ff táo;fn quán;yw suān;yw nèi;ud zhǐ;yg	10
+葡萄糖氯化钠	pú;ff táo;fn táng;mj lǜ;qu huà;nq nà;xn	10
+葡萄糖醛酸钠	pú;ff táo;fn táng;mj quán;yw suān;yw nà;xn	10
+葡萄糖酸钙维	pú;ff táo;fn táng;mj suān;yw gài;xg wéi;tq	10
+葡萄糖酸钙锌	pú;ff táo;fn táng;mj suān;yw gài;xg xīn;xx	10
+葡萄糖酸钙针	pú;ff táo;fn táng;mj suān;yw gài;xg zhēn;xu	10
+葡萄糖酸内酯	pú;ff táo;fn táng;mj suān;yw nèi;ud zhǐ;yg	10
+葡萄糖酸锑钠	pú;ff táo;fn táng;mj suān;yw tī;xl nà;xn	10
+葡萄糖酸亚铁	pú;ff táo;fn táng;mj suān;yw yà;hy tiě;xf	10
+葡萄糖氧化酶	pú;ff táo;fn táng;mj yǎng;qy huà;nq méi;ym	10
 普通硫锑铅矿	pǔ;bg tōng;lu liú;uv tī;xl qiān;xj kuàng;ug	10
 七水硫酸亚铁	qī;hv shuǐ;uy liú;uv suān;yw yà;hy tiě;xf	10
 气相二氧化硅	qì;lv xiàng;mq èr;hh yǎng;qy huà;nq guī;ut	10
@@ -13583,7 +13583,7 @@ sort: by_weight
 去甲一叶萩碱	qù;tt jiǎ;uu yí;hh yè;ju qiū;fh jiǎn;uj	10
 去甲猪毛菜碱	qù;tt jiǎ;uu zhū;qg máo;lv cài;fm jiǎn;uj	10
 去氢丹参新酮	qù;tt qīng;qg dān;lh shēn;tl xīn;ld tóng;yj	10
-去氢酶缺乏症	qù;tt qīng;qg méi;ym quē;fg fá;lv zhèng;bv	10
+去氢酶缺乏症	qù;tt qīng;qg méi;ym quē;wg fá;lv zhèng;bv	10
 去氢木香内酯	qù;tt qīng;qg mù;uy xiāng;hg nèi;ud zhǐ;yg	10
 去氢异雄甾酮	qù;tt qīng;qg yì;mf xióng;uq zāi;vt tóng;yj	10
 去甜酸甘草粉	qù;tt tián;qg suān;yw gān;nh cǎo;fu fěn;md	10
@@ -15033,8 +15033,8 @@ sort: by_weight
 异甲基丁香酚	yì;mf jiǎ;uu jī;qt dīng;hu xiāng;hg fēn;yd	10
 异抗坏血酸钠	yì;mf kàng;yf huài;tb xuè;lm suān;yw nà;xn	10
 衣康酸二甲酯	yī;wy kāng;gy suān;yw èr;hh jiǎ;uu zhǐ;yg	10
-一粒大酸葡萄	yí;hh lì;ml dà;uy suān;yw pú;ff táo;ff	10
-一磷酸葡萄糖	yī;hh lín;uu suān;yw pú;ff táo;ff táng;mj	10
+一粒大酸葡萄	yí;hh lì;ml dà;uy suān;yw pú;ff táo;fn	10
+一磷酸葡萄糖	yī;hh lín;uu suān;yw pú;ff táo;fn táng;mj	10
 乙硫氨基乙醇	yǐ;vv liú;uv ān;qy jī;qt yǐ;vv chún;yw	10
 一硫代磷酸钠	yī;hh liú;uv dài;ng lín;uu suān;yw nà;xn	10
 异硫氰基哌啶	yì;mf liú;uv qíng;qq jī;qt pài;jy dìng;jn	10
@@ -15156,7 +15156,7 @@ sort: by_weight
 乙酰基环己酮	yǐ;vv xiān;yf jī;qt huán;wb jǐ;vv tóng;yj	10
 乙酰基环己烷	yǐ;vv xiān;yf jī;qt huán;wb jǐ;vv wán;hf	10
 乙酰基金刚烷	yǐ;vv xiān;yf jī;qt jīn;nh gāng;nd wán;hf	10
-乙酰葡萄糖胺	yǐ;vv xiān;yf pú;ff táo;ff táng;mj àn;qy	10
+乙酰葡萄糖胺	yǐ;vv xiān;yf pú;ff táo;fn táng;mj àn;qy	10
 乙酰色氨酰胺	yǐ;vv xiān;yf sè;dm ān;qy xiān;yf àn;qy	10
 乙酰水杨酸散	yǐ;vv xiān;yf shuǐ;uy yáng;ml suān;yw sàn;fw	10
 乙酰水杨酸铜	yǐ;vv xiān;yf shuǐ;uy yáng;ml suān;yw tóng;xj	10
@@ -15326,7 +15326,7 @@ sort: by_weight
 唑来膦酸冻干	zuò;jt lái;hy lìn;qu suān;yw dòng;bd gān;hu	10
 左旋氨氯地平	zuǒ;ug xuán;wn ān;qy lǜ;qu dì;tv píng;hu	10
 左旋麸醯胺酸	zuǒ;ug xuán;wn fū;qf xī;ym àn;qy suān;yw	10
-左旋葡萄糖酮	zuǒ;ug xuán;wn pú;ff táo;ff táng;mj tóng;yj	10
+左旋葡萄糖酮	zuǒ;ug xuán;wn pú;ff táo;fn táng;mj tóng;yj	10
 阿苯达唑干糖浆	ā;wj běn;fb dá;ld zuò;jt gàn;hu táng;mj jiāng;bu	10
 阿法骨化醇胶丸	ā;wj fǎ;dq gǔ;uq huà;nq chún;yw jiāo;qi wán;ld	10
 阿法甲基芬太尼	ā;wj fǎ;dq jiǎ;uu jī;qt fēn;fd tài;dd ní;ub	10
@@ -15339,7 +15339,7 @@ sort: by_weight
 阿魏酸丁二酰胺	ā;wj wèi;hg suān;yw dīng;hu èr;hh xiān;yf àn;qy	10
 阿魏酸谷甾醇酯	ā;wj wèi;hg suān;yw gǔ;bj zāi;vt chún;yw zhǐ;yg	10
 阿魏酸钠氯化钠	ā;wj wèi;hg suān;yw nà;xn lǜ;qu huà;nq nà;xn	10
-阿魏酸钠葡萄糖	ā;wj wèi;hg suān;yw nà;xn pú;ff táo;ff táng;mj	10
+阿魏酸钠葡萄糖	ā;wj wèi;hg suān;yw nà;xn pú;ff táo;fn táng;mj	10
 阿昔洛韦氯化钠	ā;wj xī;fg luò;dj wéi;hu lǜ;qu huà;nq nà;xn	10
 艾杜糖醇脱氢酶	ài;fi dù;mt táng;mj chún;yw tuō;qf qīng;qg méi;ym	10
 艾杜糖硫酸酯酶	ài;fi dù;mt táng;mj liú;uv suān;yw zhǐ;yg méi;ym	10
@@ -15406,7 +15406,7 @@ sort: by_weight
 氨基吲哚基丙酸	ān;qy jī;qt yǐn;ju duǒ;jm jī;qt bǐng;hn suān;yw	10
 氨基粘康酸半醛	ān;qy jī;qt zhān;mj kāng;gy suān;yw bàn;du quán;yw	10
 氨甲苯酸氯化钠	ān;qy jiǎ;uu běn;fb suān;yw lǜ;qu huà;nq nà;xn	10
-氨甲苯酸葡萄糖	ān;qy jiǎ;uu běn;fb suān;yw pú;ff táo;ff táng;mj	10
+氨甲苯酸葡萄糖	ān;qy jiǎ;uu běn;fb suān;yw pú;ff táo;fn táng;mj	10
 氨甲环酸氯化钠	ān;qy jiǎ;uu huán;wb suān;yw lǜ;qu huà;nq nà;xn	10
 氨甲酰二氢安定	ān;qy jiǎ;uu xiān;yf èr;hh qīng;qg ān;by dìng;bn	10
 氨氯吡啶酸原药	ān;qy lǜ;qu bǐ;jb dìng;jn suān;yw yuán;ix yào;fd	10
@@ -15554,7 +15554,7 @@ sort: by_weight
 玻尔氢原子理论	bō;wi ěr;dx qīng;qg yuán;ix zǐ;vh lǐ;wl lùn;jb	10
 玻璃酸钠滴眼液	bō;wi li;wd suān;yw nà;xn dī;dj yǎn;qg yè;dy	10
 玻尿酸注射隆鼻	bō;wi niào;uu suān;yw zhù;dv shè;lf lóng;wq bí;wf	10
-菠甾醇葡萄糖苷	bō;fi zāi;vt chún;yw pú;ff táo;ff táng;mj gān;fg	10
+菠甾醇葡萄糖苷	bō;fi zāi;vt chún;yw pú;ff táo;fn táng;mj gān;fg	10
 布尔德烯烃合成	bù;ut ěr;dx dé;ix xī;ht tīng;hg hé;nj chéng;wv	10
 布诺洛尔盐酸盐	bù;ut nuò;jj luò;dj ěr;dx yán;tm suān;yw yán;tm	10
 草酸盐沉积症型	cǎo;fu suān;yw yán;tm chén;df jī;hb zhèng;bv xíng;ht	10
@@ -15611,8 +15611,8 @@ sort: by_weight
 醋酸纤维素塑料	cù;yg suān;yw xiān;tq wéi;tq sù;qx sù;bt liào;mu	12
 醋酸纤维素纤维	cù;yg suān;yw xiān;tq wéi;tq sù;qx xiān;tq wéi;tq	10
 大黄素甲醚蒽酚	dà;uy huáng;fb sù;qx jiǎ;uu mí;yl ēn;fx fēn;yd	10
-大磺酸葡萄糖苷	dà;uy huáng;ub suān;yw pú;ff táo;ff táng;mj gān;fg	10
-大黄酸葡萄糖苷	dà;uy huáng;fb suān;yw pú;ff táo;ff táng;mj gān;fg	10
+大磺酸葡萄糖苷	dà;uy huáng;ub suān;yw pú;ff táo;fn táng;mj gān;fg	10
+大黄酸葡萄糖苷	dà;uy huáng;fb suān;yw pú;ff táo;fn táng;mj gān;fg	10
 蛋白甲基转移酶	dàn;vi bái;lg jiǎ;uu jī;qt zhuǎn;id yí;hx méi;ym	10
 蛋白酪氨酸激酶	dàn;vi bái;lg lào;yj ān;qy suān;yw jī;dw méi;ym	10
 蛋白质和氨基酸	dàn;vi bái;lg zhì;ln hé;hj ān;qy jī;qt suān;yw	10
@@ -15732,7 +15732,7 @@ sort: by_weight
 多聚腺苷酸信使	duō;xx jù;wy xiàn;qu gān;fg suān;yw xìn;nj shǐ;ny	10
 多潘立酮混悬液	duō;xx pān;dt lì;wh tóng;yj hùn;db xuán;qx yè;dy	10
 多索茶碱氯化钠	duō;xx suǒ;ux chá;fm jiǎn;uj lǜ;qu huà;nq nà;xn	10
-多索茶碱葡萄糖	duō;xx suǒ;ux chá;fm jiǎn;uj pú;ff táo;ff táng;mj	10
+多索茶碱葡萄糖	duō;xx suǒ;ux chá;fm jiǎn;uj pú;ff táo;fn táng;mj	10
 多烯磷脂酰胆碱	duō;xx xī;ht lín;uu zhī;qg xiān;yf dǎn;qh jiǎn;uj	10
 多烯酸乙酯胶丸	duō;xx xī;ht suān;yw yǐ;vv zhǐ;yg jiāo;qi wán;ld	10
 多腺苷酸尿苷酸	duō;xx xiàn;qu gān;fg suān;yw niào;uu gān;fg suān;yw	10
@@ -15927,7 +15927,7 @@ sort: by_weight
 氟胞嘧啶氯化钠	fú;qf bāo;qm mì;ju dìng;jn lǜ;qu huà;nq nà;xn	10
 呋苯咪唑青霉素	fū;jf běn;fb mī;jm zuò;jt qīng;qq méi;ym sù;qx	10
 氟比洛芬巴布膏	fú;qf bǐ;bb luò;dj fēn;fd bā;mu bù;ut gāo;wq	10
-氟代脱氧葡萄糖	fú;qf dài;ng tuō;qf yǎng;qy pú;ff táo;ff táng;mj	10
+氟代脱氧葡萄糖	fú;qf dài;ng tuō;qf yǎng;qy pú;ff táo;fn táng;mj	10
 复方氨酚烷胺胶	fù;lw fāng;dw ān;qy fēn;yd wán;hf àn;qy jiāo;qi	10
 复方氨基酸颗粒	fù;lw fāng;dw ān;qy jī;qt suān;yw kē;gn lì;ml	10
 复方氨基酸双肽	fù;lw fāng;dw ān;qy jī;qt suān;yw shuāng;ii tài;qt	10
@@ -15992,7 +15992,7 @@ sort: by_weight
 复方木香小檗碱	fù;lw fāng;dw mù;uy xiāng;hg xiǎo;ud bò;um jiǎn;uj	10
 复方枇杷氯化铵	fù;lw fāng;dw pí;mb pá;mm lǜ;qu huà;nq ǎn;xy	10
 复方皮维碘溶液	fù;lw fāng;dw pí;vi wéi;tq diǎn;ub róng;dj yè;dy	10
-复方葡萄糖酸钙	fù;lw fāng;dw pú;ff táo;ff táng;mj suān;yw gài;xg	10
+复方葡萄糖酸钙	fù;lw fāng;dw pú;ff táo;fn táng;mj suān;yw gài;xg	10
 复方氢氧化铝镁	fù;lw fāng;dw qīng;qg yǎng;qy huà;nq lǚ;xj měi;xd	10
 复方曲安龙溶液	fù;lw fāng;dw qǔ;uh ān;by lóng;ud róng;dj yè;dy	10
 复方三氯叔丁醇	fù;lw fāng;dw sān;hh lǜ;qu shū;ui dīng;hu chún;yw	10
@@ -16041,7 +16041,7 @@ sort: by_weight
 氟康唑玻璃酸钠	fú;qf kāng;gy zuò;jt bō;wi li;wd suān;yw nà;xn	10
 氟磷酸二环己酯	fú;qf lín;uu suān;yw èr;hh huán;wb jǐ;vv zhǐ;yg	10
 氟罗沙星甘露醇	fú;qf luó;qx shā;dl xīng;gq gān;nh lù;yj chún;yw	10
-氟罗沙星葡萄糖	fú;qf luó;qx shā;dl xīng;gq pú;ff táo;ff táng;mj	10
+氟罗沙星葡萄糖	fú;qf luó;qx shā;dl xīng;gq pú;ff táo;fn táng;mj	10
 氟氯烷类化合物	fú;qf lǜ;qu wán;hf lèi;md huà;nq hé;nj wù;nl	10
 富马酸阿奇霉素	fù;bt mǎ;vh suān;yw ā;wj qí;dj méi;ym sù;qx	10
 富马酸比索洛尔	fù;bt mǎ;vh suān;yw bǐ;bb suǒ;ux luò;dj ěr;dx	10
@@ -16112,7 +16112,7 @@ sort: by_weight
 高尿酸血症患者	gāo;wj niào;uu suān;yw xuè;lm zhèng;bv huàn;ix zhě;lg	10
 高尿酸血症肾病	gāo;wj niào;uu suān;yw xuè;lm zhèng;bv shèn;uq bìng;bb	10
 高羟氨基酸血症	gāo;wj qiǎng;bg ān;qy jī;qt suān;yw xuè;lm zhèng;bv	10
-睾酮脱氢酶缺乏	gāo;lx tóng;yj tuō;qf qīng;qg méi;ym quē;fg fá;lv	10
+睾酮脱氢酶缺乏	gāo;lx tóng;yj tuō;qf qīng;qg méi;ym quē;wg fá;lv	10
 睾丸酮甾还原酶	gāo;lx wán;ld tóng;yj zāi;vt huán;lb yuán;ix méi;ym	10
 高硒代牛磺胆酸	gāo;wj xī;ux dài;ng niú;lu huáng;ub dǎn;qh suān;yw	10
 高效氯氟氰菊酯	gāo;wj xiào;ww lǜ;qu fú;qf qíng;qq jú;fm zhǐ;yg	10
@@ -16148,7 +16148,7 @@ sort: by_weight
 过氧化二苯甲酰	guò;lf yǎng;qy huà;nq èr;hh běn;fb jiǎ;uu xiān;yf	12
 过氧化二异丙苯	guò;lf yǎng;qy huà;nq èr;hh yì;mf bǐng;hn běn;fb	12
 过氧化麦角固醇	guò;lf yǎng;qy huà;nq mài;qw jiǎo;du gù;jj chún;yw	10
-过氧化氢酶缺乏	guò;lf yǎng;qy huà;nq qīng;qg méi;ym quē;fg fá;lv	10
+过氧化氢酶缺乏	guò;lf yǎng;qy huà;nq qīng;qg méi;ym quē;wg fá;lv	10
 过氧化双月桂酰	guò;lf yǎng;qy huà;nq shuāng;ii yuè;nh guì;mt xiān;yf	10
 过氧化物酶染色	guò;lf yǎng;qy huà;nq wù;nl méi;ym rǎn;dm sè;dm	10
 过氧化物酶体病	guò;lf yǎng;qy huà;nq wù;nl méi;ym tǐ;nb bìng;bb	10
@@ -16418,7 +16418,7 @@ sort: by_weight
 精氨基琥珀酸尿	jīng;mq ān;qy jī;qt hǔ;wf pò;wb suān;yw niào;uu	10
 精氨酸阿司匹林	jīng;mq ān;qy suān;yw ā;wj sī;vj pǐ;nf lín;mm	10
 精氨酸单加氧酶	jīng;mq ān;qy suān;yw dān;bu jiā;lj yǎng;qy méi;ym	10
-精氨酸酶缺乏症	jīng;mq ān;qy suān;yw méi;ym quē;fg fá;lv zhèng;bv	10
+精氨酸酶缺乏症	jīng;mq ān;qy suān;yw méi;ym quē;wg fá;lv zhèng;bv	10
 精氨酸尿素循环	jīng;mq ān;qy suān;yw niào;uu sù;qx xún;iq huán;wb	10
 精甘天冬氨酸肽	jīng;mq gān;nh tiān;hd dōng;wd ān;qy suān;yw tài;qt	10
 景天酸代谢植物	jǐng;gx tiān;hd suān;yw dài;ng xiè;jf zhí;mq wù;nl	10
@@ -16524,7 +16524,7 @@ sort: by_weight
 克林霉素氯化钠	kè;uf lín;mm méi;ym sù;qx lǜ;qu huà;nq nà;xn	10
 可逆单胺氧化酶	kě;dj nì;ll dān;bu àn;qy yǎng;qy huà;nq méi;ym	10
 可溶性核糖核酸	kě;dj róng;dj xìng;xq hé;mn táng;mj hé;mn suān;yw	10
-苦马酸葡萄糖苷	kǔ;fj mǎ;vh suān;yw pú;ff táo;ff táng;mj gān;fg	10
+苦马酸葡萄糖苷	kǔ;fj mǎ;vh suān;yw pú;ff táo;fn táng;mj gān;fg	10
 矿渣硅酸盐水泥	kuàng;ug zhā;dh guī;ut suān;yw yán;tm shuǐ;uy ní;db	10
 奎宁萘酚磺酸盐	kuí;dt níng;bd nài;fx fēn;yd huáng;ub suān;yw yán;tm	10
 奎宁尿素盐酸盐	kuí;dt níng;bd niào;uu sù;qx yán;tm suān;yw yán;tm	10
@@ -16577,7 +16577,7 @@ sort: by_weight
 磷酸奥司他韦胶	lín;uu suān;yw ào;ld sī;vj tā;nv wéi;hu jiāo;qi	10
 磷酸半乳糖苷酶	lín;uu suān;yw bàn;du rǔ;lv táng;mj gān;fg méi;ym	10
 磷酸苯丙哌林胶	lín;uu suān;yw běn;fb bǐng;hn pài;jy lín;mm jiāo;qi	10
-磷酸吡喃葡萄糖	lín;uu suān;yw bǐ;jb nán;jg pú;ff táo;ff táng;mj	10
+磷酸吡喃葡萄糖	lín;uu suān;yw bǐ;jb nán;jg pú;ff táo;fn táng;mj	10
 磷酸丙糖异构酶	lín;uu suān;yw bǐng;hn táng;mj yì;mf gòu;mt méi;ym	10
 磷酸川芎嗪滴丸	lín;uu suān;yw chuān;lu xiōng;fg qín;jh dī;dj wán;ld	10
 磷酸胆碱转移酶	lín;uu suān;yw dǎn;qh jiǎn;uj zhuǎn;id yí;hx méi;ym	10
@@ -16596,14 +16596,14 @@ sort: by_weight
 磷酸景天庚酮糖	lín;uu suān;yw jǐng;gx tiān;hd gēng;gy tóng;yj táng;mj	10
 磷酸可待因糖浆	lín;uu suān;yw kě;dj dài;if yīn;jd táng;mj jiāng;bu	10
 磷酸硫代尿核苷	lín;uu suān;yw liú;uv dài;ng niào;uu hé;mn gān;fg	10
-磷酸尿苷葡萄糖	lín;uu suān;yw niào;uu gān;fg pú;ff táo;ff táng;mj	10
+磷酸尿苷葡萄糖	lín;uu suān;yw niào;uu gān;fg pú;ff táo;fn táng;mj	10
 磷酸哌嗪宝塔糖	lín;uu suān;yw pài;jy qín;jh bǎo;bd tǎ;tj táng;mj	10
 磷酸葡糖酸内酯	lín;uu suān;yw pú;ff táng;mj suān;yw nèi;ud zhǐ;yg	10
-磷酸葡萄糖酸酯	lín;uu suān;yw pú;ff táo;ff táng;mj suān;yw zhǐ;yg	10
-磷酸葡萄脱氢酶	lín;uu suān;yw pú;ff táo;ff tuō;qf qīng;qg méi;ym	10
+磷酸葡萄糖酸酯	lín;uu suān;yw pú;ff táo;fn táng;mj suān;yw zhǐ;yg	10
+磷酸葡萄脱氢酶	lín;uu suān;yw pú;ff táo;fn tuō;qf qīng;qg méi;ym	10
 磷酸三个甲苯酯	lín;uu suān;yw sān;hh gè;nu jiǎ;uu běn;fb zhǐ;yg	10
 磷酸三氯乙酯钠	lín;uu suān;yw sān;hh lǜ;qu yǐ;vv zhǐ;yg nà;xn	10
-磷酸脱氧葡萄糖	lín;uu suān;yw tuō;qf yǎng;qy pú;ff táo;ff táng;mj	10
+磷酸脱氧葡萄糖	lín;uu suān;yw tuō;qf yǎng;qy pú;ff táo;fn táng;mj	10
 磷酸烯醇丙酮酸	lín;uu suān;yw xī;ht chún;yw bǐng;hn tóng;yj suān;yw	10
 磷酸锌促皮质素	lín;uu suān;yw xīn;xx cù;nl pí;vi zhì;ln sù;qx	10
 磷酸一氢根离子	lín;uu suān;yw yī;hh qīng;qg gēn;mg lí;wd zǐ;vh	10
@@ -16617,7 +16617,7 @@ sort: by_weight
 硫代硫酸根离子	liú;uv dài;ng liú;uv suān;yw gēn;mg lí;wd zǐ;vh	10
 硫代硫酸钠溶液	liú;uv dài;ng liú;uv suān;yw nà;xn róng;dj yè;dy	10
 硫代苹果酸金钠	liú;uv dài;ng píng;fh guǒ;uy suān;yw jīn;nh nà;xn	10
-硫代葡萄糖苷酶	liú;uv dài;ng pú;ff táo;ff táng;mj gān;fg méi;ym	10
+硫代葡萄糖苷酶	liú;uv dài;ng pú;ff táo;fn táng;mj gān;fg méi;ym	10
 硫的高价氧化物	liú;uv de;bd gāo;wj jià;nu yǎng;qy huà;nq wù;nl	10
 六叠氮磷酸五氮	liù;wb dié;iq dàn;qh lín;uu suān;yw wǔ;hh dàn;qh	10
 六氟化硫稀释法	liù;wb fú;qf huà;nq liú;uv xī;ht shì;lu fǎ;dq	10
@@ -16641,7 +16641,7 @@ sort: by_weight
 六水丁二酸二钠	liù;wb shuǐ;uy dīng;hu èr;hh suān;yw èr;hh nà;xn	12
 六水硫酸亚铁铵	liù;wb shuǐ;uy liú;uv suān;yw yà;hy tiě;xf ǎn;xy	12
 硫酸阿托品眼膏	liú;uv suān;yw ā;wj tuō;yq pǐn;jj yǎn;qg gāo;wq	10
-硫酸氨基葡萄糖	liú;uv suān;yw ān;qy jī;qt pú;ff táo;ff táng;mj	10
+硫酸氨基葡萄糖	liú;uv suān;yw ān;qy jī;qt pú;ff táo;fn táng;mj	10
 硫酸钡型混悬液	liú;uv suān;yw bèi;xn xíng;ht hùn;db xuán;qx yè;dy	10
 硫酸二氨基吖啶	liú;uv suān;yw èr;hh ān;qy jī;qt ā;ju dìng;jn	10
 硫酸镁溶液传染	liú;uv suān;yw měi;xd róng;dj yè;dy chuán;nd rǎn;dm	10
@@ -16761,12 +16761,12 @@ sort: by_weight
 浓过氧化氢溶液	nóng;dy guò;lf yǎng;qy huà;nq qīng;qg róng;dj yè;dy	10
 诺氟沙星滴眼液	nuò;jj fú;qf shā;dl xīng;gq dī;dj yǎn;qg yè;dy	10
 诺氟沙星脚气水	nuò;jj fú;qf shā;dl xīng;gq jiǎo;qw qì;lv shuǐ;uy	10
-诺氟沙星葡萄糖	nuò;jj fú;qf shā;dl xīng;gq pú;ff táo;ff táng;mj	10
+诺氟沙星葡萄糖	nuò;jj fú;qf shā;dl xīng;gq pú;ff táo;fn táng;mj	10
 诺氟沙星锌乳膏	nuò;jj fú;qf shā;dl xīng;gq xīn;xx rǔ;lv gāo;wq	10
 偶氮二氰基戊酸	ǒu;nd dàn;qh èr;hh qíng;qq jī;qt wù;gl suān;yw	10
 派尔努甲醇悲剧	pài;dy ěr;dx nǔ;yl jiǎ;uu chún;yw bēi;fx jù;ud	10
 哌泊噻棕榈酸酯	pài;jy pō;db sāi;jt zōng;mx lǘ;mj suān;yw zhǐ;yg	10
-培氟沙星葡萄糖	péi;tj fú;qf shā;dl xīng;gq pú;ff táo;ff táng;mj	10
+培氟沙星葡萄糖	péi;tj fú;qf shā;dl xīng;gq pú;ff táo;fn táng;mj	10
 喷托维林氯化铵	pēn;jn tuō;yq wéi;tq lín;mm lǜ;qu huà;nq ǎn;xy	10
 膨体聚四氟乙烯	péng;ql tǐ;nb jù;wy sì;jf fú;qf yǐ;vv xī;ht	10
 皮特森烯烃合成	pí;vi tè;nf sēn;mm xī;ht tīng;hg hé;nj chéng;wv	10
@@ -16776,15 +16776,15 @@ sort: by_weight
 泼尼松龙乙酸酯	pō;dd ní;ub sōng;mt lóng;ud yǐ;vv suān;yw zhǐ;yg	10
 葡庚糖酸红霉素	pú;ff gēng;gy táng;mj suān;yw hóng;tg méi;ym sù;qx	10
 普鲁卡因泛酸钙	pǔ;bg lǔ;gg kǎ;ub yīn;jd fàn;dv suān;yw gài;xg	10
-葡萄糖氯化钠钾	pú;ff táo;ff táng;mj lǜ;qu huà;nq nà;xn jiǎ;xt	10
-葡萄糖醛酸内酯	pú;ff táo;ff táng;mj quán;yw suān;yw nèi;ud zhǐ;yg	10
-葡萄糖酸钙颗粒	pú;ff táo;ff táng;mj suān;yw gài;xg kē;gn lì;ml	10
-葡萄糖酸钙溶液	pú;ff táo;ff táng;mj suān;yw gài;xg róng;dj yè;dy	10
-葡萄糖酸钙注射	pú;ff táo;ff táng;mj suān;yw gài;xg zhù;dv shè;lf	10
-葡萄糖酸氯已定	pú;ff táo;ff táng;mj suān;yw lǜ;qu yǐ;vv dìng;bn	10
-葡萄糖酸镁颗粒	pú;ff táo;ff táng;mj suān;yw měi;xd kē;gn lì;ml	10
-葡萄糖酸锌颗粒	pú;ff táo;ff táng;mj suān;yw xīn;xx kē;gn lì;ml	10
-葡萄糖酸锌糖浆	pú;ff táo;ff táng;mj suān;yw xīn;xx táng;mj jiāng;bu	10
+葡萄糖氯化钠钾	pú;ff táo;fn táng;mj lǜ;qu huà;nq nà;xn jiǎ;xt	10
+葡萄糖醛酸内酯	pú;ff táo;fn táng;mj quán;yw suān;yw nèi;ud zhǐ;yg	10
+葡萄糖酸钙颗粒	pú;ff táo;fn táng;mj suān;yw gài;xg kē;gn lì;ml	10
+葡萄糖酸钙溶液	pú;ff táo;fn táng;mj suān;yw gài;xg róng;dj yè;dy	10
+葡萄糖酸钙注射	pú;ff táo;fn táng;mj suān;yw gài;xg zhù;dv shè;lf	10
+葡萄糖酸氯已定	pú;ff táo;fn táng;mj suān;yw lǜ;qu yǐ;vv dìng;bn	10
+葡萄糖酸镁颗粒	pú;ff táo;fn táng;mj suān;yw měi;xd kē;gn lì;ml	10
+葡萄糖酸锌颗粒	pú;ff táo;fn táng;mj suān;yw xīn;xx kē;gn lì;ml	10
+葡萄糖酸锌糖浆	pú;ff táo;fn táng;mj suān;yw xīn;xx táng;mj jiāng;bu	10
 普通硅酸盐水泥	pǔ;bg tōng;lu guī;ut suān;yw yán;tm shuǐ;uy ní;db	10
 七甲基三硅氧烷	qī;hv jiǎ;uu jī;qt sān;hh guī;ut yǎng;qy wán;hf	10
 芪均二苯代乙烯	qí;fv jūn;tb èr;hh běn;fb dài;ng yǐ;vv xī;ht	10
@@ -16951,7 +16951,7 @@ sort: by_weight
 双氟米松戊酸酯	shuāng;ii fú;qf mǐ;dm sōng;mt wù;gl suān;yw zhǐ;yg	10
 双高塔制酸系统	shuāng;ii gāo;wj tǎ;tj zhì;ld suān;yw xì;lx tǒng;tf	10
 双环辛四烯合镎	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj ná;xu	10
-双环辛四烯合镤	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj pú;xy	10
+双环辛四烯合镤	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj pú;xf	10
 双环辛四烯合铈	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj shì;xt	10
 双环辛四烯合钍	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj tǔ;xt	10
 双环辛四烯合铀	shuāng;ii huán;wb xīn;lu sì;jf xī;ht hé;nj yóu;xt	10
@@ -17016,7 +17016,7 @@ sort: by_weight
 酸性磷酸酶升高	suān;yw xìng;xq lín;uu suān;yw méi;ym shēng;lf gāo;wj	10
 酸性糖蛋白测定	suān;yw xìng;xq táng;mj dàn;vi bái;lg cè;dd dìng;bn	10
 酸性沼泽软泥怪	suān;yw xìng;xq zhǎo;dj zé;du ruǎn;in ní;db guài;xt	10
-酸性脂酶缺乏症	suān;yw xìng;xq zhī;qg méi;ym quē;fg fá;lv zhèng;bv	10
+酸性脂酶缺乏症	suān;yw xìng;xq zhī;qg méi;ym quē;wg fá;lv zhèng;bv	10
 酸枣木香龙眼肉	suān;yw zǎo;hd mù;uy xiāng;hg lóng;ud yǎn;qg ròu;nn	10
 羧基乙烯共聚物	suō;bw jī;qt yǐ;vv xī;ht gòng;fb jù;wy wù;nl	10
 羧甲淀粉钠溶液	suō;bw jiǎ;uu diàn;dn fěn;md nà;xn róng;dj yè;dy	10
@@ -17143,7 +17143,7 @@ sort: by_weight
 盐酸吖啶黄溶液	yán;tm suān;yw ā;ju dìng;jn huáng;fb róng;dj yè;dy	10
 盐酸阿扑吗啡舌	yán;tm suān;yw ā;wj pū;yb mǎ;jm fēi;jf shé;qj	10
 盐酸胺碘酮注射	yán;tm suān;yw àn;qy diǎn;ub tóng;yj zhù;dv shè;lf	10
-盐酸氨基葡萄糖	yán;tm suān;yw ān;qy jī;qt pú;ff táo;ff táng;mj	10
+盐酸氨基葡萄糖	yán;tm suān;yw ān;qy jī;qt pú;ff táo;fn táng;mj	10
 盐酸氨溴索颗粒	yán;tm suān;yw ān;qy xiù;dq suǒ;ux kē;gn lì;ml	10
 盐酸氨溴索糖浆	yán;tm suān;yw ān;qy xiù;dq suǒ;ux táng;mj jiāng;bu	10
 盐酸氨溴索注射	yán;tm suān;yw ān;qy xiù;dq suǒ;ux zhù;dv shè;lf	10
@@ -17193,7 +17193,7 @@ sort: by_weight
 盐酸普鲁卡因胺	yán;tm suān;yw pǔ;bg lǔ;gg kǎ;ub yīn;jd àn;qy	10
 盐酸曲普利啶胶	yán;tm suān;yw qǔ;uh pǔ;bg lì;hd dìng;jn jiāo;qi	10
 盐酸赛庚啶乳膏	yán;tm suān;yw sài;bn gēng;gy dìng;jn rǔ;lv gāo;wq	10
-烟酸色氨酸缺乏	yān;hd suān;yw sè;dm ān;qy suān;yw quē;fg fá;lv	10
+烟酸色氨酸缺乏	yān;hd suān;yw sè;dm ān;qy suān;yw quē;wg fá;lv	10
 盐酸双氢奎尼丁	yán;tm suān;yw shuāng;ii qīng;qg kuí;dt ní;ub dīng;hu	10
 盐酸速溶阿霉素	yán;tm suān;yw sù;ly róng;dj ā;wj méi;ym sù;qx	10
 盐酸坦洛新缓释	yán;tm suān;yw tǎn;th luò;dj xīn;ld huǎn;ti shì;lu	10
@@ -17219,7 +17219,7 @@ sort: by_weight
 氧氟沙星滴眼液	yǎng;qy fú;qf shā;dl xīng;gq dī;dj yǎn;qg yè;dy	10
 氧氟沙星甘露醇	yǎng;qy fú;qf shā;dl xīng;gq gān;nh lù;yj chún;yw	10
 氧氟沙星氯化钠	yǎng;qy fú;qf shā;dl xīng;gq lǜ;qu huà;nq nà;xn	10
-氧氟沙星葡萄糖	yǎng;qy fú;qf shā;dl xīng;gq pú;ff táo;ff táng;mj	10
+氧氟沙星葡萄糖	yǎng;qy fú;qf shā;dl xīng;gq pú;ff táo;fn táng;mj	10
 氧化丙酸还原酶	yǎng;qy huà;nq bǐng;hn suān;yw huán;lb yuán;ix méi;ym	10
 氧化伯醇到羧酸	yǎng;qy huà;nq bó;nb chún;yw dào;hd suō;bw suān;yw	10
 氧化汞味啫喱粉	yǎng;qy huà;nq gǒng;gu wèi;jw zhě;jg lí;jl fěn;md	10
@@ -17232,7 +17232,7 @@ sort: by_weight
 氧脯氨酸还原酶	yǎng;qy pú;qf ān;qy suān;yw huán;lb yuán;ix méi;ym	10
 氧杂氮杂环丙烯	yǎng;qy zá;lm dàn;qh zá;lm huán;wb bǐng;hn xī;ht	10
 氧杂降冰片二烯	yǎng;qy zá;lm jiàng;wu bīng;bu piàn;lv èr;hh xī;ht	10
-叶酸缺乏性贫血	yè;ju suān;yw quē;fg fá;lv xìng;xq pín;bn xuè;lm	10
+叶酸缺乏性贫血	yè;ju suān;yw quē;wg fá;lv xìng;xq pín;bn xuè;lm	10
 液氧甲烷发动机	yè;dy yǎng;qy jiǎ;uu wán;hf fā;vd dòng;hl jī;mf	10
 液状甘油磷酸钾	yè;dy zhuàng;bq gān;nh yóu;dt lín;uu suān;yw jiǎ;xt	10
 液状甘油磷酸钠	yè;dy zhuàng;bq gān;nh yóu;dt lín;uu suān;yw nà;xn	10
@@ -17248,7 +17248,7 @@ sort: by_weight
 异常巨核细胞症	yì;mf cháng;xt jù;nh hé;mn xì;tt bāo;qm zhèng;bv	10
 异常球蛋白血症	yì;mf cháng;xt qiú;wq dàn;vi bái;lg xuè;lm zhèng;bv	10
 异常视网膜对应	yì;mf cháng;xt shì;vy wǎng;ni mó;qd duì;if yìng;gh	10
-遗传性代谢缺陷	yí;ln chuán;nd xìng;xq dài;ng xiè;jf quē;fg xiàn;wb	10
+遗传性代谢缺陷	yí;ln chuán;nd xìng;xq dài;ng xiè;jf quē;wg xiàn;wb	10
 遗传性共济失调	yí;ln chuán;nd xìng;xq gòng;fb jì;du shī;lf tiáo;jj	10
 遗传性果糖尿症	yí;ln chuán;nd xìng;xq guǒ;uy táng;mj niào;uu zhèng;bv	10
 遗传性烘卟啉症	yí;ln chuán;nd xìng;xq hōng;hb bǔ;jb lín;jm zhèng;bv	10
@@ -17346,7 +17346,7 @@ sort: by_weight
 左炔诺酮硅胶棒	zuǒ;ug quē;hg nuò;jj tóng;yj guī;ut jiāo;qi bàng;mu	10
 左旋甲基苯丙胺	zuǒ;ug xuán;wn jiǎ;uu jī;qt běn;fb bǐng;hn àn;qy	10
 左旋甲基炔诺酮	zuǒ;ug xuán;wn jiǎ;uu jī;qt quē;hg nuò;jj tóng;yj	10
-左旋葡萄糖烯酮	zuǒ;ug xuán;wn pú;ff táo;ff táng;mj xī;ht tóng;yj	10
+左旋葡萄糖烯酮	zuǒ;ug xuán;wn pú;ff táo;fn táng;mj xī;ht tóng;yj	10
 左氧氟沙星注射	zuǒ;ug yǎng;qy fú;qf shā;dl xīng;gq zhù;dv shè;lf	10
 八甲基环四硅氧烷	bā;ly jiǎ;uu jī;qt huán;wb sì;jf guī;ut yǎng;qy wán;hf	10
 丙烯基缩水甘油醚	bǐng;hn xī;ht jī;qt suō;tb shuǐ;uy gān;nh yóu;dt mí;yl	12

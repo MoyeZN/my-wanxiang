@@ -682,7 +682,7 @@ sort: by_weight
 这股	zhèi;lw gǔ;qi	580
 这瓜	zhèi;lw guā;ly	320
 这关	zhèi;lw guān;bt	470
-这罐	zhèi;lw guàn;fq	330
+这罐	zhèi;lw guàn;wq	330
 这光	zhèi;lw guāng;xf	320
 这鬼	zhèi;lw guǐ;lt	360
 这锅	zhèi;lw guō;xn	500
@@ -3724,7 +3724,7 @@ sort: by_weight
 谁送的	shéi;jq sòng;lt de;bd	330
 谁送我	shéi;jq sòng;lt wǒ;ld	310
 谁他妈	shéi;jq tā;nv mā;ym	420
-谁掏钱	shéi;jq tāo;yf qián;xx	270
+谁掏钱	shéi;jq tāo;yn qián;xx	270
 谁提的	shéi;jq tí;yn de;bd	290
 谁提供	shéi;jq tí;yn gōng;nb	310
 谁听谁	shéi;jq tīng;jd shéi;jq	240
@@ -3864,7 +3864,7 @@ sort: by_weight
 所以谁	suǒ;ld yǐ;vn shéi;jq	380
 他是谁	tā;nv shì;gn shéi;jq	490
 她是谁	tā;yv shì;gn shéi;jq	450
-淘汰谁	táo;df tài;dt shéi;jq	240
+淘汰谁	táo;dn tài;dt shéi;jq	240
 讨厌谁	tǎo;jf yàn;iq shéi;jq	340
 听谁的	tīng;jd shéi;jq de;bd	440
 听谁说	tīng;jd shéi;jq shuō;jf	330
@@ -4059,7 +4059,7 @@ sort: by_weight
 可谁想到	kě;dj shéi;jq xiǎng;mx dào;hd	28
 可谁知道	kě;dj shéi;jq zhī;lj dào;lw	42
 离不开谁	lí;wd bù;hd kāi;hf shéi;jq	1
-帘影谁摇	lián;bt yǐng;gl shéi;jq yáo;yf	6
+帘影谁摇	lián;bt yǐng;gl shéi;jq yáo;yn	6
 鹿死谁手	lù;gb sǐ;db shéi;jq shǒu;lu	296
 卖给了谁	mài;ud gěi;tj le;vu shéi;jq	30
 卖给谁了	mài;ud gěi;tj shéi;jq le;vu	1
@@ -4715,7 +4715,7 @@ sort: by_weight
 买了布	mǎi;vd le;vu bù;ut	552
 那是蝉	nà;vw shì;gn chán;iu	1
 跑了兔	pǎo;lm le;vu tù;dd	1
-青葡萄	qīng;qq pú;ff táo;ff	462
+青葡萄	qīng;qq pú;ff táo;fn	462
 认真学	rèn;jn zhēn;ub xué;xw	1684
 如雾里	rú;yj wù;yl lǐ;uh	1
 软舌头	ruǎn;in shé;qj tou;dd	1
@@ -4913,7 +4913,7 @@ sort: by_weight
 越长越	yuè;tv zhǎng;ly yuè;tv	2111
 这是蚕	zhè;lw shì;gn cán;ti	1
 紫瓷盘	zǐ;vx cí;bw pán;vm	1
-紫葡萄	zǐ;vx pú;ff táo;ff	55
+紫葡萄	zǐ;vx pú;ff táo;fn	55
 嘴不黑	zuǐ;ju bù;hd hēi;uh	1
 嘴说腿	zuǐ;ju shuō;jf tuǐ;ql	1
 白白的鹅	bái;lg bái;lg de;bd é;ln	169
@@ -4937,7 +4937,7 @@ sort: by_weight
 同种冬瓜	tóng;nj zhǒng;hv dōng;wd guā;ly	1
 勿理物理	wù;bl lǐ;wl wù;nl lǐ;wl	1
 惜乎锡壶	xī;xg hū;lu xī;xl hú;ty	300
-小直摇头	xiǎo;ud zhí;uq yáo;yf tóu;dd	97
+小直摇头	xiǎo;ud zhí;uq yáo;yn tóu;dd	97
 越长越好	yuè;tv cháng;ly yuè;tv hǎo;yw	529
 越长越快	yuè;tv zhǎng;ly yuè;tv kuài;xg	4
 安心唱爱歌	ān;by xīn;dd chàng;jg ài;li gē;dn	1
@@ -5236,7 +5236,7 @@ sort: by_weight
 白石塔白石白又滑	bái;lg shí;hj tǎ;tj bái;lg shí;hj bái;lg yòu;vy huá;dg	1
 扁担和板凳板凳宽	biǎn;hf dàn;yh hé;hj bǎn;mi dèng;vf bǎn;mi dèng;vf kuān;by	1
 扁担要绑在板凳上	biǎn;hf dàn;yh yào;xy bǎng;tw zài;ut bǎn;mi dèng;vf shàng;uh	1
-吃葡萄不吐葡萄皮	chī;jq pú;ff táo;ff bù;hd tǔ;jt pú;ff táo;ff pí;vi	1
+吃葡萄不吐葡萄皮	chī;jq pú;ff táo;fn bù;hd tǔ;jt pú;ff táo;fn pí;vi	1
 从南边来了个喇嘛	cóng;nn nán;ug biān;ll lái;hy le;vu gè;nu lǎ;jd ma;jm	1
 雕与猫树上有只雕	diāo;nq yǔ;hh māo;qt shù;mf shàng;uh yǒu;uq zhǐ;jb diāo;nq	1
 董家都懂得种冬瓜	dǒng;fh jiā;by dōu;lw dǒng;xh de;if zhǒng;hv dōng;wd guā;ly	1
@@ -5263,7 +5263,7 @@ sort: by_weight
 碰破了白猫黑鼻子	pèng;uy pò;ui le;vu bái;lg māo;qt hēi;uh bí;wf zi;vh	1
 枪和糠墙上一个窗	qiāng;mv hé;hj kāng;my qiáng;tj shàng;uh yí;hh gè;nu chuāng;bw	1
 枪也上不了窗和墙	qiāng;mv yě;vv shàng;uh bù;hd liǎo;vu chuāng;bw hé;hj qiáng;tj	1
-青葡萄没籽葡萄紫	qīng;qq pú;ff táo;ff méi;di zǐ;mw pú;ff táo;ff zǐ;vx	1
+青葡萄没籽葡萄紫	qīng;qq pú;ff táo;fn méi;di zǐ;mw pú;ff táo;fn zǐ;vx	1
 三娘找到三只山羊	sān;hh niáng;yg zhǎo;yg dào;hd sān;hh zhǐ;jb shān;un yáng;bu	1
 三只山羊翻过山梁	sān;hh zhǐ;jb shān;un yáng;bu fān;lb guò;lf shān;un liáng;dm	1
 是字纸你就撕字纸	shì;gn zì;bw zhǐ;tv nǐ;nx jiù;wy sī;yd zì;bw zhǐ;tv	1
@@ -5279,7 +5279,7 @@ sort: by_weight
 别喇叭的哑巴吹喇叭	bié;jd lǎ;jd bā;jb de;bd yǎ;jy bā;mu chuī;jn lǎ;jd bā;jb	1
 剥了秕谷壳儿补鼻子	bō;ud le;vu bǐ;hb gǔ;bj ké;tf er;lv bǔ;vb bí;wf zi;vh	1
 不剥秕谷壳儿补鼻子	bù;hd bō;ud bǐ;hb gǔ;bj ké;tf er;lv bǔ;vb bí;wf zi;vh	1
-不吃葡萄倒吐葡萄皮	bù;hd chī;jq pú;ff táo;ff dào;nd tǔ;jt pú;ff táo;ff pí;vi	1
+不吃葡萄倒吐葡萄皮	bù;hd chī;jq pú;ff táo;fn dào;nd tǔ;jt pú;ff táo;fn pí;vi	1
 不管是天上的热日头	bù;hd guǎn;vj shì;gn tiān;hd shàng;uh de;bd rè;yh rì;jh tou;dd	1
 不知是严圆眼的眼圆	bù;hd zhī;lj shì;gn yán;yl yuán;jn yǎn;qg de;bd yǎn;qg yuán;jn	1
 打那百十百个白斑鸠	dǎ;yd nà;vw bǎi;hb shí;hu bǎi;hb gè;nu bái;lg bān;ww jiū;ln	1
