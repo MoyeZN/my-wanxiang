@@ -2504,8 +2504,8 @@ sort: by_weight
 内眦矫形术	nèi;ud zì;qb jiǎo;lu xíng;hl shù;md	10
 内眦修补术	nèi;ud zì;qb xiū;nl bǔ;vb shù;md	10
 能包治百病	néng;tb bāo;bm zhì;dj bǎi;hb bìng;bb	10
-能近怯远症	néng;tb jìn;ld qiè;xt yuǎn;lf zhèng;bv	10
-能远怯近症	néng;tb yuǎn;lf qiè;xt jìn;ld zhèng;bv	10
+能近怯远症	néng;tb jìn;ld qiè;xq yuǎn;lf zhèng;bv	10
+能远怯近症	néng;tb yuǎn;lf qiè;xq jìn;ld zhèng;bv	10
 逆传心包证	nì;ll chuán;nd xīn;dd bāo;bm zhèng;jv	10
 尼曼匹克症	ní;ub màn;gi pǐ;nf kè;uf zhèng;bv	10
 你神经病啊	nǐ;nx shén;vt jīng;tg bìng;bb a;jj	10
@@ -4184,7 +4184,7 @@ sort: by_weight
 心胃火盛证	xīn;dd wèi;tq huǒ;dn shèng;im zhèng;jv	10
 新型传染病	xīn;ld xíng;ht chuán;nd rǎn;dm bìng;bb	10
 新兴传染病	xīn;ld xīng;xb chuán;nd rǎn;dm bìng;bb	10
-心虚胆怯证	xīn;dd xū;hy dǎn;qh qiè;xt zhèng;jv	10
+心虚胆怯证	xīn;dd xū;hy dǎn;qh qiè;xq zhèng;jv	10
 心虚血少证	xīn;dd xū;hy xuè;lm shǎo;xl zhèng;jv	10
 心血不足证	xīn;dd xuè;lm bù;hd zú;jn zhèng;jv	10
 心血管畸形	xīn;dd xuè;lm guǎn;vj jī;tj xíng;hl	10
