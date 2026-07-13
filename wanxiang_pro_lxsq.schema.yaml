@@ -3,7 +3,7 @@
 # 方案说明
 schema:
   schema_id: wanxiang_pro_lxsq
-  name: 乱序十七
+  name: 乱序17
   version: "LTS"
   author:
     - amzxyz
