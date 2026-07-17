@@ -3776,7 +3776,7 @@ sort: by_weight
 岩鹨	yán;uu liù;vn	93
 烟鲈	yān;hd lú;gu	68
 岩螺	yán;uu luó;ix	82
-燕麦	yān;nh mài;qw	102
+燕麦	yàn;nh mài;qw	102
 岩螨	yán;uu mǎn;il	86
 胭螨	yān;qd mǎn;il	73
 岩蟒	yán;uu mǎng;if	98
@@ -4711,7 +4711,8 @@ sort: by_weight
 白环蛇	bái;lg huán;wb shé;ib	5
 白灰蝶	bái;lg huī;uh dié;im	4
 白及兰	bái;lg jí;ly lán;bh	5
-白𬶨豚	bái;lg jì;qy tún;	8
+白𬶨豚	bái;lg jì;qy tún;	118
+白暨豚	bái;lg jì;gh tún;qy	87
 白鲫鱼	bái;lg jì;gw yú;dh	114
 白蛱蝶	bái;lg jiá;iy dié;im	6
 白甲鱼	bái;lg jiǎ;uu yú;dh	147
@@ -14455,7 +14456,7 @@ sort: by_weight
 珊穴蟹	shān;wf xué;bb xiè;di	7
 闪眼蝶	shǎn;nn yǎn;qg dié;im	8
 山眼蝶	shān;un yǎn;qg dié;im	8
-山燕麦	shān;un yān;nh mài;qw	7
+山燕麦	shān;un yàn;nh mài;qw	7
 山芫荽	shān;un yán;ff suī;fy	12
 山羊草	shān;un yáng;bu cǎo;fu	21
 山羊豆	shān;un yáng;bu dòu;hh	12
@@ -17607,7 +17608,7 @@ sort: by_weight
 延龄草	yán;lv líng;vv cǎo;fu	7
 岩羚羊	yán;uu líng;bv yáng;bu	8
 偃麦草	yǎn;ny mài;qw cǎo;fu	16
-燕麦草	yān;nh mài;qw cǎo;fu	12
+燕麦草	yàn;nh mài;qw cǎo;fu	12
 烟盲蝽	yān;hd máng;wq chūn;ig	5
 岩玫瑰	yán;uu méi;ww gui;wg	6
 岩母草	yán;uu mǔ;vd cǎo;fu	4
@@ -18018,7 +18019,7 @@ sort: by_weight
 异牙鲿	yì;mf yá;hl cháng;gt	5
 翼牙䱛	yì;vb yá;hl huò;	5
 异檐花	yì;mf yán;mj huā;fq	7
-异燕麦	yì;mf yān;nh mài;qw	17
+异燕麦	yì;mf yàn;nh mài;qw	17
 异药花	yì;mf yào;fd huā;fq	21
 翼药花	yì;vb yào;fd huā;fq	13
 异药芥	yì;mf yào;fd jiè;fu	12
@@ -32401,7 +32402,7 @@ sort: by_weight
 长柄线尾榕	cháng;ly bǐng;mb xiàn;tx wěi;um róng;mj	1
 长柄象牙参	cháng;ly bǐng;mb xiàng;dy yá;hl shēn;tl	1
 长柄新月蕨	cháng;ly bǐng;mb xīn;ld yuè;nh jué;fq	1
-长柄熊巴掌	cháng;ly bǐng;mb xióng;th bā;mu zhǎng;xu	1
+长柄熊巴掌	cháng;ly bǐng;mb xióng;th bā;mu zhang;xu	1
 长柄岩黄耆	cháng;ly bǐng;mb yán;uu huáng;fb qí;lg	1
 长柄羊蹄甲	cháng;ly bǐng;mb yáng;bu tí;lt jiǎ;uu	1
 长柄野扁豆	cháng;ly bǐng;mb yě;lu biǎn;hf dòu;hh	1
@@ -34476,7 +34477,7 @@ sort: by_weight
 短毛双尾蚜	duǎn;lh máo;lv shuāng;ii wěi;um yá;iy	1
 短毛双药芒	duǎn;lh máo;lv shuāng;ii yào;fd máng;fv	1
 短毛松针蚜	duǎn;lh máo;lv sōng;mt zhēn;xu yá;iy	1
-短毛熊巴掌	duǎn;lh máo;lv xióng;th bā;mu zhǎng;xu	1
+短毛熊巴掌	duǎn;lh máo;lv xióng;th bā;mu zhang;xu	1
 短毛野青茅	duǎn;lh máo;lv yě;lu qīng;qq máo;fl	1
 短鳍兵鲂𫚒	duǎn;lh qí;gg bīng;qb fáng;gw fú;	1
 短鳍高原鳅	duǎn;lh qí;gg gāo;wj yuán;ix qiū;gh	1
@@ -46824,7 +46825,7 @@ sort: by_weight
 眼眶牛尾鱼	yǎn;qg kuàng;qw niú;lu wěi;um yú;dh	1
 岩鲤碘泡虫	yán;uu lǐ;gl diǎn;ub pào;dm chóng;vd	1
 岩鲤两极虫	yán;uu lǐ;gl liǎng;hd jí;my chóng;vd	1
-燕麦拟捻螺	yān;nh mài;qw nǐ;yn niǎn;yx luó;ix	1
+燕麦拟捻螺	yàn;nh mài;qw nǐ;yn niǎn;yx luó;ix	1
 奄美短肠蕨	yǎn;dd měi;bd duǎn;lh cháng;ql jué;fq	1
 岩梅虎耳草	yán;uu méi;mm hǔ;hf ěr;hh cǎo;fu	1
 眼眉拉摩蟹	yǎn;qg méi;vq lā;yl mó;gu xiè;di	1

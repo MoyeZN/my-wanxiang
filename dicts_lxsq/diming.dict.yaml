@@ -2535,6 +2535,7 @@ sort: by_weight
 长港镇	cháng;ly gǎng;dm zhèn;xb	10
 长皋乡	cháng;ly gāo;bu xiāng;vl	10
 长葛市	cháng;ly gé;fv shì;wt	866
+长葛县	cháng;ly gé;fv xiàn;qt	104
 唱歌镇	chàng;jg gē;dn zhèn;xb	10
 长沟镇	cháng;ly gōu;dt zhèn;xb	10
 长桂乡	cháng;ly guì;mt xiāng;vl	10
@@ -25358,7 +25359,6 @@ sort: by_weight
 张高村	zhāng;gy gāo;wj cūn;mf	10
 张皋镇	zhāng;gy gāo;bu zhèn;xb	10
 张阁村	zhāng;gy gé;nj cūn;mf	10
-长葛县	zhǎng;ly gé;fv xiàn;qt	104
 张阁镇	zhāng;gy gé;nj zhèn;xb	159
 张各庄	zhāng;gy gè;wj zhuāng;gt	312
 张戈庄	zhāng;gy gē;hd zhuāng;gt	150
@@ -66495,12 +66495,12 @@ sort: by_weight
 修之于乡	xiū;nl zhī;dy yú;hu xiāng;vl	10
 徐碧街道	xú;im bì;wu jiē;ii dào;lw	10
 徐埠口村	xú;im bù;tu kǒu;uh cūn;mf	10
+许昌长葛	xǔ;jw chāng;gg cháng;ly gé;fv	10
 许昌建安	xǔ;jw chāng;gg jiàn;lu ān;by	10
 许昌魏都	xǔ;jw chāng;gg wèi;hg dū;lw	10
 许昌襄城	xǔ;jw chāng;gg xiāng;wy chéng;ti	10
 许昌鄢陵	xǔ;jw chāng;gg yān;vw líng;ww	10
 许昌禹州	xǔ;jw chāng;gg yǔ;ld zhōu;du	10
-许昌长葛	xǔ;jw chāng;gg zhǎng;ly gé;fv	10
 许城东村	xǔ;jw chéng;ti dōng;hd cūn;mf	10
 盱城街道	xū;qy chéng;ti jiē;ii dào;lw	10
 徐城街道	xú;im chéng;ti jiē;ii dào;lw	10
