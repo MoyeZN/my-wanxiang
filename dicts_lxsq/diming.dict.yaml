@@ -3858,7 +3858,7 @@ sort: by_weight
 大田县	dà;uy tián;ju xiàn;qt	228
 大田乡	dà;uy tián;ju xiāng;vl	10
 大畠站	dà;uy tián; zhàn;lj	315
-大畑站	dà;uy tián; zhàn;lj	213
+大畑站	dà;uy tián;ht zhàn;lj	213
 大田镇	dà;uy tián;ju zhèn;xb	10
 大庭站	dà;uy tíng;gl zhàn;lj	446
 大町站	dà;uy tīng;td zhàn;lj	84
@@ -7145,6 +7145,7 @@ sort: by_weight
 海原县	hǎi;dm yuán;ix xiàn;qt	182
 海渊镇	hǎi;dm yuān;du zhèn;xb	10
 海州区	hǎi;dm zhōu;du qū;ni	185
+解州镇	hài;dn zhōu;du zhèn;xb	105
 海珠区	hǎi;dm zhū;ww qū;ni	263
 海子乡	hǎi;dm zǐ;vh xiāng;vl	10
 海子镇	hǎi;dm zǐ;vh zhèn;xb	10
@@ -22394,7 +22395,6 @@ sort: by_weight
 协雄乡	xié;ud xióng;uq xiāng;vl	10
 谢洋乡	xiè;jf yáng;dy xiāng;vl	10
 卸载站	xiè;ww zài;ui zhàn;lj	99
-解州镇	xiè;dn zhōu;du zhèn;xb	105
 谢庄镇	xiè;jf zhuāng;gt zhèn;xb	10
 新安县	xīn;ld ān;by xiàn;qt	215
 新安乡	xīn;ld ān;by xiāng;vl	10
@@ -31686,7 +31686,7 @@ sort: by_weight
 村久佐村	cūn;mf jiǔ;ly zuǒ;ng cūn;mf	10
 村拉洛村	cūn;mf lā;yl luò;dj cūn;mf	10
 村濑加村	cūn;mf lài;dn jiā;lj cūn;mf	10
-村蓝畑村	cūn;mf lán;fm tián; cūn;mf	10
+村蓝畑村	cūn;mf lán;fm tián;ht cūn;mf	10
 村理川镇	cūn;mf lǐ;wl chuān;lu zhèn;xb	10
 村梨丰乡	cūn;mf lí;hm fēng;hu xiāng;vl	10
 村里集镇	cūn;mf lǐ;uh jí;nm zhèn;xb	10
@@ -31811,7 +31811,7 @@ sort: by_weight
 村元柏村	cūn;mf yuán;hf bǎi;mb cūn;mf	10
 村渊崎村	cūn;mf yuān;du qí;uj cūn;mf	10
 村云凤村	cūn;mf yún;ht fèng;fi cūn;mf	10
-村云畑村	cūn;mf yún;ht tián; cūn;mf	10
+村云畑村	cūn;mf yún;ht tián;ht cūn;mf	10
 村云毓村	cūn;mf yún;ht yù;lv cūn;mf	10
 村泽谷村	cūn;mf zé;du gǔ;bj cūn;mf	10
 村真浦村	cūn;mf zhēn;ub pǔ;df cūn;mf	10
@@ -38934,6 +38934,7 @@ sort: by_weight
 海则滩镇	hǎi;dm zé;nd tān;dq zhèn;xb	10
 海州街道	hǎi;dm zhōu;du jiē;ii dào;lw	10
 海洲街道	hǎi;dm zhōu;du jiē;ii dào;lw	10
+解州营村	hài;dn zhōu;du yíng;fj cūn;mf	10
 海幢街道	hǎi;dm zhuàng;tl jiē;ii dào;lw	10
 海子沟村	hǎi;dm zǐ;vh gōu;dt cūn;mf	10
 海子沟乡	hǎi;dm zǐ;vh gōu;dt xiāng;vl	10
@@ -41830,7 +41831,7 @@ sort: by_weight
 黄田岙村	huáng;fb tián;ju ào;yu cūn;mf	10
 黄天荡村	huáng;fb tiān;hd dàng;fl cūn;mf	10
 黄田港村	huáng;fb tián;ju gǎng;dm cūn;mf	10
-荒畑寒村	huāng;fv tián; hán;bd cūn;mf	10
+荒畑寒村	huāng;fv tián;ht hán;bd cūn;mf	10
 黄田街道	huáng;fb tián;ju jiē;ii dào;lw	10
 黄田铺镇	huáng;fb tián;ju pù;xf zhèn;xb	10
 黄亭市镇	huáng;fb tíng;wd shì;wt zhèn;xb	10
@@ -65500,7 +65501,6 @@ sort: by_weight
 谢辛庄村	xiè;jf xīn;lu zhuāng;gt cūn;mf	10
 渫阳社区	xiè;dm yáng;wg shè;vt qū;ni	45
 撷云二庄	xié;yn yún;ht èr;hh zhuāng;gt	10
-解州营村	xiè;dn zhōu;du yíng;fj cūn;mf	10
 蝎子庙村	xiē;iv zi;vh miào;gt cūn;mf	10
 蝎子山村	xiē;iv zi;vh shān;un cūn;mf	10
 新艾里村	xīn;ld ài;fi lǐ;uh cūn;mf	10

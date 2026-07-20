@@ -454,6 +454,7 @@ sort: by_weight
 黄卡	huáng;fb kǎ;ub	76
 黄坑	huáng;fb kēng;tf	25
 黄葵	huáng;fb kuí;ft	47
+黄亮	huáng;fb liàng;wf	104
 黄敏	huáng;fb mǐn;lw	625
 黄明	huáng;fb míng;gq	1015
 黄某	huáng;fb mǒu;gm	1620
@@ -1482,6 +1483,8 @@ sort: by_weight
 陶庵	táo;wn ān;gd	106
 陶钧	táo;wn jūn;xb	274
 陶楼	táo;wn lóu;my	65
+佟佳	tóng;nd jiā;nt	134
+佟健	tóng;nd jiàn;nl	449
 童哲	tóng;ll zhé;yj	65
 王安	wáng;ht ān;by	598
 王表	wáng;ht biǎo;qy	36
@@ -1571,8 +1574,7 @@ sort: by_weight
 王梦	wáng;ht mèng;mx	251
 王萌	wáng;ht méng;fq	200
 王敏	wáng;ht mǐn;lw	6348
-王明	wáng;ht míng;gq	2795
-王宁	wáng;ht níng;bd	2292
+王明	wáng;ht míng;gq	395
 王雱	wáng;ht pāng;yw	25
 王袍	wáng;ht páo;vm	35
 王培	wáng;ht péi;tj	766
@@ -2118,6 +2120,7 @@ sort: by_weight
 余军	yú;nm jūn;bi	508
 余凯	yú;nm kǎi;uf	598
 余乐	yú;nm lè;ld	579
+俞亮	yú;nd liàng;wf	200
 余隆	yú;nm lóng;wq	42
 余明	yú;nm míng;gq	292
 余平	yú;nm píng;hu	211
@@ -5176,6 +5179,8 @@ sort: by_weight
 黄循财	huáng;fb xún;iq cái;nf	0
 黄亚生	huáng;fb yà;hy shēng;lq	400
 黄炎培	huáng;fb yán;hh péi;tj	369
+黄媛媛	huáng;fb yuàn;yi yuàn;yi	288
+黄月华	huáng;fb yuè;nh huá;nu	266
 黄智万	huáng;fb zhì;lg wàn;hl	238
 黄志伟	huáng;fb zhì;tx wěi;nu	159
 黄志文	huáng;fb zhì;tx wén;wi	554
@@ -13893,6 +13898,7 @@ sort: by_weight
 余昌军	yú;nm chāng;gg jūn;bi	238
 余长明	yú;nm cháng;ly míng;gq	207
 余楚媛	yú;nm chǔ;mn yuàn;yi	243
+俞岱岩	yú;nd dài;nu yán;uu	261
 余德宝	yú;nm dé;ix bǎo;bd	378
 余德龙	yú;nm dé;ix lóng;ud	261
 余得水	yú;nm dé;if shuǐ;uy	338
@@ -13900,6 +13906,7 @@ sort: by_weight
 余东风	yú;nm dōng;hd fēng;fi	216
 余东雄	yú;nm dōng;hd xióng;uq	274
 余多多	yú;nm duō;xx duō;xx	2792
+俞放鹤	yú;nd fàng;ww hè;dn	364
 余桂英	yú;nm guì;mt yīng;fg	76
 余国伟	yú;nm guó;jd wěi;nu	543
 余海龙	yú;nm hǎi;dm lóng;ud	201
@@ -13920,8 +13927,10 @@ sort: by_weight
 余俊贤	yú;nm jùn;nw xián;un	306
 余立奎	yú;nm lì;wh kuí;dt	189
 余丽桥	yú;nm lì;hd qiáo;mu	270
+俞莲舟	yú;nd lián;fl zhōu;ld	493
 余良卿	yú;nm liáng;dg qīng;lw	220
 余明生	yú;nm míng;gq shēng;lq	288
+俞佩玉	yú;nd pèi;nt yù;wd	585
 余佩真	yú;nm pèi;nt zhēn;ub	266
 余鹏飞	yú;nm péng;qn fēi;vd	378
 余倩雯	yú;nm qiàn;nq wén;yw	279
@@ -13947,6 +13956,7 @@ sort: by_weight
 余心乐	yú;nm xīn;dd lè;ld	91
 余欣沛	yú;nm xīn;lq pèi;du	364
 余欣荣	yú;nm xīn;lq róng;fm	544
+俞秀莲	yú;nd xiù;hn lián;fl	132
 余亚莲	yú;nm yà;hy lián;fl	153
 余泱漪	yú;nm yāng;dg yī;dj	29
 余奕沛	yú;nm yì;wd pèi;du	378
@@ -17780,7 +17790,7 @@ sort: by_weight
 千田嘉博	qiān;lu tián;ju jiā;tj bó;uf	0
 浅田结梨	qiǎn;dx tián;ju jié;tj lí;hm	0
 浅田京子	qiǎn;dx tián;ju jīng;wx zǐ;vh	0
-前畑俊穗	qián;bd tián; jùn;nw suì;hx	0
+前畑俊穗	qián;bd tián;ht jùn;nw suì;hx	0
 前田克拓	qián;bd tián;ju kè;uf tuò;yu	0
 前田利常	qián;bd tián;ju lì;hd cháng;xt	6
 前田利长	qián;bd tián;ju lì;hd cháng;ly	2
@@ -17816,7 +17826,7 @@ sort: by_weight
 前田香织	qián;bd tián;ju xiāng;hg zhī;tb	3
 前田信弘	qián;bd tián;ju xìn;nj hóng;gt	0
 前田秀继	qián;bd tián;ju xiù;hn jì;tv	0
-前畑秀子	qián;bd tián; xiù;hn zǐ;vh	0
+前畑秀子	qián;bd tián;ht xiù;hn zǐ;vh	0
 千田玄树	qiān;lu tián;ju xuán;wt shù;mf	0
 前田亚季	qián;bd tián;ju yà;hy jì;hw	2
 前田亚纪	qián;bd tián;ju yà;hy jì;tm	0
@@ -17831,7 +17841,7 @@ sort: by_weight
 浅田优衣	qiǎn;dx tián;ju yōu;ny yī;wy	0
 前田与免	qián;bd tián;ju yǔ;hh miǎn;dv	0
 浅田元树	qiǎn;dx tián;ju yuán;hf shù;mf	0
-前畑昭二	qián;bd tián; zhāo;gj èr;hh	0
+前畑昭二	qián;bd tián;ht zhāo;gj èr;hh	0
 千田贞季	qiān;lu tián;ju zhēn;un jì;hw	0
 前田真里	qián;bd tián;ju zhēn;ub lǐ;uh	0
 浅田真美	qiǎn;dx tián;ju zhēn;ub měi;bd	0
@@ -17844,7 +17854,7 @@ sort: by_weight
 前田知惠	qián;bd tián;ju zhī;lj huì;hx	4
 前田知辉	qián;bd tián;ju zhī;lj huī;xi	0
 前田重教	qián;bd tián;ju zhòng;lh jiào;lw	0
-前畑滋子	qián;bd tián; zī;dt zǐ;vh	0
+前畑滋子	qián;bd tián;ht zī;dt zǐ;vh	0
 浅野爱子	qiǎn;dx yě;lu ài;li zǐ;vh	0
 千野草场	qiān;lu yě;lu cǎo;fu chǎng;tl	73
 千叶禅师	qiān;lu yè;ju chán;vu shī;ut	6
@@ -18598,7 +18608,7 @@ sort: by_weight
 下川真哉	xià;hb chuān;lu zhēn;ub zāi;uj	0
 小林加奈	xiǎo;ud lín;mm jiā;lj nài;dx	0
 小田刚一	xiǎo;ud tián;ju gāng;nd yī;hh	0
-小畑贵裕	xiǎo;ud tián; guì;vn yù;vj	0
+小畑贵裕	xiǎo;ud tián;ht guì;vn yù;vj	0
 小田和也	xiǎo;ud tián;ju hé;hj yě;vv	0
 小田和正	xiǎo;ud tián;ju hé;hj zhèng;hv	22
 小田健作	xiǎo;ud tián;ju jiàn;nl zuò;nv	0
@@ -18606,14 +18616,14 @@ sort: by_weight
 小田萌山	xiǎo;ud tián;ju méng;fq shān;un	0
 小田切梦	xiǎo;ud tián;ju qiè;qd mèng;mx	0
 小田切让	xiǎo;ud tián;ju qiè;qd ràng;ju	75
-小畑仁志	xiǎo;ud tián; rén;nh zhì;tx	0
+小畑仁志	xiǎo;ud tián;ht rén;nh zhì;tx	0
 小田氏治	xiǎo;ud tián;ju shì;lv zhì;dj	0
 筱田夏生	xiǎo;vw tián;ju xià;hw shēng;lq	0
-小畑信良	xiǎo;ud tián; xìn;nj liáng;dg	0
+小畑信良	xiǎo;ud tián;ht xìn;nj liáng;dg	0
 筱田秀石	xiǎo;vw tián;ju xiù;hn shí;hj	11
-小畑英良	xiǎo;ud tián; yīng;fg liáng;dg	0
-小畑友纪	xiǎo;ud tián; yǒu;ui jì;tm	2
-小畑优奈	xiǎo;ud tián; yōu;ny nài;dx	0
+小畑英良	xiǎo;ud tián;ht yīng;fg liáng;dg	0
+小畑友纪	xiǎo;ud tián;ht yǒu;ui jì;tm	2
+小畑优奈	xiǎo;ud tián;ht yōu;ny nài;dx	0
 小田卓朗	xiǎo;ud tián;ju zhuó;uu lǎng;dq	0
 小原鞠莉	xiǎo;ud yuán;ix jū;gm lì;fd	8
 新井里美	xīn;ld jǐng;hu lǐ;uh měi;bd	2

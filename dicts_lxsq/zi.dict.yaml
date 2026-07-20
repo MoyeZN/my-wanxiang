@@ -320,7 +320,7 @@ sort: by_weight
 肮	āng;qf	1687
 卬	áng;lw	1228
 仰	áng;nw	696
-骯	āng;	435
+骯	āng;gf	435
 枊	àng;	200
 昻	áng;	124
 岇	áng;	75
@@ -9615,7 +9615,7 @@ sort: by_weight
 𧟰	fiào;	4
 佛	fó;nu	4729
 仏	fó;	1426
-坲	fó;	685
+坲	fó;tf	685
 梻	fó;	328
 仸	fó;	321
 㤇	fó;	2
@@ -12950,7 +12950,7 @@ sort: by_weight
 黑	hēi;uh	71413
 嘿	hēi;jh	2848
 黒	hēi;	1903
-潶	hēi;	528
+潶	hēi;dh	528
 𬭶	hēi;	4
 嗨	hēi;jm	2
 𨭆	hēi;	1
@@ -23276,9 +23276,9 @@ sort: by_weight
 𧣵	lùn;	1
 𧱜	lún;	1
 罗	luó;qx	39922
-络	luò;tj	3375
-落	luò;fj	3307
-洛	luò;dj	2734
+落	luò;fj	3375
+洛	luò;dj	3307
+络	luò;tj	2734
 逻	luó;lx	2292
 萝	luó;fx	1493
 螺	luó;ix	1355
@@ -26599,7 +26599,7 @@ sort: by_weight
 𪘅	niè;	1
 您	nín;nx	89405
 拰	nǐn;	972
-囜	nín;	344
+囜	nín;jt	344
 恁	nín;nx	337
 脌	nín;	10
 㤛	nín;	2
@@ -26847,7 +26847,7 @@ sort: by_weight
 𪺹	nǔ;	1
 暖	nuǎn;gi	6544
 煖	nuǎn;	1346
-奻	nuán;	500
+奻	nuán;yy	500
 渜	nuǎn;	404
 煗	nuǎn;	304
 餪	nuǎn;	53
@@ -27501,7 +27501,7 @@ sort: by_weight
 喷	pèn;jn	17548
 噴	pēn;	1296
 湓	pén;dm	1004
-葐	pén;	368
+葐	pén;fm	368
 呠	pěn;	158
 瓫	pén;	124
 喯	pèn;	112
@@ -31328,7 +31328,7 @@ sort: by_weight
 𣏴	rén;	1
 仍	réng;nn	29010
 扔	rēng;yn	6446
-礽	réng;	1432
+礽	réng;vn	1432
 陾	réng;	200
 辸	réng;	133
 芿	réng;	2
@@ -31347,9 +31347,9 @@ sort: by_weight
 𨸐	réng;	1
 𪥠	réng;	1
 日	rì;jh	316273
-鈤	rì;	39534
+鈤	rì;xg	39534
 驲	rì;mg	8323
-囸	rì;	8156
+囸	rì;jv	8156
 馹	rì;	7992
 釰	rì;	6242
 䒤	rì;	1
@@ -31505,7 +31505,7 @@ sort: by_weight
 蹂	róu;lm	1508
 糅	róu;mm	989
 𫐓	róu;	424
-蝚	róu;	338
+蝚	róu;im	338
 宍	ròu;	301
 禸	róu;	271
 瑈	róu;	244
@@ -32217,7 +32217,7 @@ sort: by_weight
 𩰙	sè;	1
 𫄱	sè;	1
 森	sēn;mm	3561
-椮	sēn;	594
+椮	sēn;ml	594
 襂	sēn;	441
 槮	sēn;	432
 㚞	sēn;	4
@@ -36144,7 +36144,7 @@ sort: by_weight
 添	tiān;dx	6596
 恬	tián;xj	547
 腆	tiǎn;qb	455
-畑	tián;	410
+畑	tián;ht	410
 阗	tián;nb	369
 殄	tiǎn;dl	332
 湉	tián;dj	299
@@ -44897,7 +44897,7 @@ sort: by_weight
 䓨	yīng;fn	14
 桯	yíng;mw	13
 應	yīng;	12
-桜	yīng;	11
+桜	yīng;my	11
 營	yíng;	10
 甇	yīng;	9
 営	yíng;	8
@@ -47214,7 +47214,6 @@ sort: by_weight
 迮	zé;lv	257
 舴	zé;vv	231
 侧	zè;nd	208
-沢	zé;dy	187
 則	zé;	168
 擇	zé;	151
 責	zé;	136
@@ -47222,6 +47221,7 @@ sort: by_weight
 択	zé;	110
 崱	zè;	99
 嘖	zé;	89
+沢	zé;dy	87
 皟	zé;	80
 唶	zé;	72
 礋	zé;	65
@@ -50950,7 +50950,7 @@ sort: by_weight
 佐	zuǒ;ng	690
 琢	zuó;wy	539
 作	zuō;nv	512
-咗	zuo;	436
+咗	zuo;jg	436
 唑	zuò;jt	392
 祚	zuò;vv	353
 胙	zuò;qv	281
