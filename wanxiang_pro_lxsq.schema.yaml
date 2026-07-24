@@ -210,7 +210,7 @@ wanxiang_reverse_lxsq:
   tag: wanxiang_reverse_lxsq
   dictionary: wanxiang_reverse
   enable_completion: true
-  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse 匹配
+  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse_lxsq 匹配
   tips: "〔反查：拆分|笔画〕"
 
 wanxiang_lookup:  #设置归属于super_lookup.lua
