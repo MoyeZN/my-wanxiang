@@ -2,7 +2,7 @@
 # encoding: utf-8
 # 方案说明
 schema:
-  schema_id: wanxiang_pro
+  schema_id: wanxiang_pro_lxsq
   name: 乱辅十七
   version: "LTS"
   author:
@@ -87,7 +87,6 @@ engine:
     - script_translator  #脚本翻译器，用于拼音、粤拼等基于音节表的输入方案
     - lua_translator@*wanxiang.user_predict*T  #靠自己养的专属预测联想处理器，不再依赖前端插件以及固定数据
     - lua_translator@*wanxiang.version_display  #输入'/wx'，显示万象项目网址和当前版本号
-    - lua_translator@*wanxiang.set_schema  #输入'/zrm'，快速切换为自然码双拼， /flypy→小鹤双拼 /mspy→微软双拼 /zrm→自然码 /sogou→搜狗双拼 /abc→智能ABC /ziguang→紫光双拼 /pyjj→拼音加加 /gbpy→国标双拼 /lxsq→乱序17 /pinyin→全拼
     - lua_translator@*wanxiang.shijian  #农历、日期、节气、节日、时间、周、问候模板等等，触发清单看下文
     - lua_translator@*wanxiang.unicode  #通过输入大写U引导，并输入Unicode编码获得汉字输出
     - lua_translator@*wanxiang.number_translator  #数字、金额大写，通过输入大写R1234获得候选输出
@@ -123,7 +122,7 @@ grammar:
 
 # 主翻译器，拼音
 translator:
-  dictionary: wanxiang_pro  # 挂载词库 wanxiang.dict.yaml
+  dictionary: wanxiang_pro_lxsq  # 挂载词库 wanxiang.dict.yaml
   #  packs: user                  #导入根目录下名称为user.dict.yaml的自定义固定词典
   #  prism: double_pinyin          # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   enable_completion: true  # 启用候选词补全
@@ -141,7 +140,7 @@ translator:
   comment_format:  #将注释以词典字符串形式完全暴露，通过super_comment.lua完全接管，灵活配置。
 
 user_dict_set:
-  dictionary: wanxiang_pro
+  dictionary: wanxiang_pro_lxsq
   initial_quality: 2.5
   enable_completion: false
   enable_sentence: false
@@ -152,14 +151,14 @@ user_dict_set:
   spelling_hints: 50
   comment_format:
   enable_user_dict: true
-  user_dict: zc
+  user_dict: zc_lxsq
 
-# 自定义词典加词(ac引导)
+# 自定义词典加词(``引导)
 add_user_dict:
   tag: add_user_dict
-  dictionary: wanxiang_pro
+  dictionary: wanxiang_pro_lxsq
   initial_quality: -1
-  user_dict: zc
+  user_dict: zc_lxsq
   enable_completion: true  # 提前显示尚未输入完整码的字〔仅 table_translator 有效〕
   enable_user_dict: true
   spelling_hints: 50
@@ -234,6 +233,7 @@ speller:
   # initials 定义仅作为始码的按键，排除 ` 让单个的 ` 可以直接上屏
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/›
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+  visual_delimiter: " "  # super_preedit.lua配置：是否让分隔符号跟着一起转换，例如nǐ'hǎo 在实际使用中表现出视觉拥挤，我们可以让delimiter平时是'转换为拼音的时候使用空格nǐ hǎo，更符合实际。
   algebra:
     __patch:
       #- 模糊音             #模糊音选择性开启
@@ -526,7 +526,7 @@ super_replacer:
       tags: [abc]
       prefix: "_cf_"
       files:
-        - lua/data/chaifen.txt
+        - lua/data/chaifen_lxsq.txt
     # 场景2：输入 'hello' -> 显示 'hello 〔你好 | 哈喽〕'
     - option: chinese_english
       mode: append  # <--- 添加注释模式

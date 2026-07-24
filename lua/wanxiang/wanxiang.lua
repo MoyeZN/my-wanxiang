@@ -96,7 +96,7 @@ end
 function wanxiang.is_pro_scheme(env)
     -- local schema_name = env.engine.schema.schema_name
     -- return schema_name:gsub("PRO$", "") ~= schema_name
-    return env.engine.schema.schema_id == "wanxiang_pro"
+    return env.engine.schema.schema_id == "wanxiang_pro" or env.engine.schema.schema_id == "wanxiang_pro_lxsq"
 end
 
 -- 以 `tag` 方式检测是否处于反查模式
