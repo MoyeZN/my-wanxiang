@@ -32,5 +32,5 @@ speller:
     __patch: wanxiang_algebra_lxsq:/reverse/hulvy  #笔画类型有hspzn，hupvd及hslzy（适配乱序17）可选
 
 translator:
-  dictionary: wanxiang_reverse_lxsq
+  dictionary: wanxiang_reverse
   enable_user_dict: false

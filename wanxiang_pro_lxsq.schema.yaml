@@ -197,7 +197,7 @@ wanxiang_english:
   trigger: "\\"  #英文造词符号\，写一个用时双击
 
 wanxiang_mixedcode_lxsq:
-  dictionary: wanxiang_mixedcode_lxsq
+  dictionary: wanxiang_mixedcode
   db_class: stabledb
   enable_completion: true
   enable_sentence: false
@@ -208,15 +208,15 @@ wanxiang_mixedcode_lxsq:
 # 部件拆字反查
 wanxiang_reverse_lxsq:
   tag: wanxiang_reverse_lxsq
-  dictionary: wanxiang_reverse_lxsq
+  dictionary: wanxiang_reverse
   enable_completion: true
-  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse_lxsq 匹配
+  prefix: "`"  # 反查前缀（反查时前缀会消失），与 recognizer/patterns/wanxiang_reverse 匹配
   tips: "〔反查：拆分|笔画〕"
 
 wanxiang_lookup:  #设置归属于super_lookup.lua
   tags: [abc, add_user_dict]  # 检索当前tag的候选
   key: "`"  # 输入中反查引导符，要添加到 speller/alphabet
-  lookup: [wanxiang_reverse_lxsq]  #反查滤镜数据库，万象都合并为一个了
+  lookup: [wanxiang_reverse]  #反查滤镜数据库，万象都合并为一个了
   enable_tone: true  #启用声调反查
   data_source: ['aux', 'db']
   #data_source: ['db', 'aux']
@@ -252,7 +252,7 @@ recognizer:
     super_emoji: "^/emoji[.?/][A-Za-z.]*$"  # /emoji.apple.red  /emoji?keyword  /emoji/keyword
     super_sym_pre: "^/sym[.?/]?$"  # 仅 /sym /sym. /sym? /sym/ 模式提示
     super_emoji_pre: "^/emoji[.?/]?$"  # 仅 /emoji /emoji. /emoji? /emoji/ 模式提示
-    wanxiang_reverse: "^`[A-Za-z;]*$"  # 响应部件拆字与笔画的反查，与 radical_lookup/prefix 匹配
+    wanxiang_reverse_lxsq: "^`[A-Za-z;]*$"  # 响应部件拆字与笔画的反查，与 radical_lookup/prefix 匹配
     add_user_dict: "^``[A-Za-z/`']*$"  #自造词
     unicode: "^U[a-f0-9]+"  # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
     number: "^R[0-9]+[.]?[0-9]*"  # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
