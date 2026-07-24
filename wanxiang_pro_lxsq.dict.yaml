@@ -14,20 +14,20 @@ version: "LTS"
 sort: by_weight  #字典初始排序，可選original或by_weight
 use_preset_vocabulary: false
 import_tables:
-  - dicts_lxsq/zi            #字表，包含了所有带拼音的汉字
-  - dicts_lxsq/jichu         #基础词库，2-4字词汇
-  - dicts_lxsq/lianxiang     #联想词库，5字以上词汇，多用于输入前半段第二候选可以出来整段
-  - dicts_lxsq/cuoyin        #错音错字，支持错音和错字输入的兼容，同时供超级注释lua使用会在输入错误音节打出的时候给予提示
-  - dicts_lxsq/duoyin        #兼容词库，是基础词库的扩充，收录了多场景多种读音的词组
-  - dicts_lxsq/shici         #诗词
-  - dicts_lxsq/diming        #地名
-  - dicts_lxsq/yixue         #医学
-  - dicts_lxsq/huaxue        #化学
-  - dicts_lxsq/yaopin        #药品
-  - dicts_lxsq/mingren       #名人
-  - dicts_lxsq/yiren         #艺人
-  - dicts_lxsq/wuzhong       #物种多样性
-  - dicts_lxsq/renming       #高频人名
-  - dicts_lxsq/taifeng       #最新台风表
-  - dicts_lxsq/fangyan       #收集全国方言
+  - dicts_lxsq/zi.pro            #字表，包含了所有带拼音的汉字
+  - dicts_lxsq/jichu.pro         #基础词库，2-4字词汇
+  - dicts_lxsq/lianxiang.pro     #联想词库，5字以上词汇，多用于输入前半段第二候选可以出来整段
+  - dicts_lxsq/cuoyin.pro        #错音错字，支持错音和错字输入的兼容，同时供超级注释lua使用会在输入错误音节打出的时候给予提示
+  - dicts_lxsq/duoyin.pro        #兼容词库，是基础词库的扩充，收录了多场景多种读音的词组
+  - dicts_lxsq/shici.pro         #诗词
+  - dicts_lxsq/diming.pro        #地名
+  - dicts_lxsq/yixue.pro         #医学
+  - dicts_lxsq/huaxue.pro        #化学
+  - dicts_lxsq/yaopin.pro        #药品
+  - dicts_lxsq/mingren.pro       #名人
+  - dicts_lxsq/yiren.pro         #艺人
+  - dicts_lxsq/wuzhong.pro       #物种多样性
+  - dicts_lxsq/renming.pro       #高频人名
+  - dicts_lxsq/taifeng.pro       #最新台风表
+  - dicts_lxsq/fangyan.pro       #收集全国方言
 ...
